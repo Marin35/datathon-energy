@@ -47,12 +47,11 @@ for i in range(len(weighted_vector)):
 
 total_score = np.zeros(len(df))
 for j in range(len(weighted_vector)):
-    print(weighted_vector[j])
     total_score += weighted_vector[j] * df.iloc[:, j + 2]
 
 df['Score Total'] = total_score
 
 # Output it to a JSON format.
-path_to_JSON = "../data_to_leaflet/data.json"
+path_to_JSON = "../data_to_leaflet/data_V2.json"
 JSON_object = df_to_JSON(df, path_to_JSON)  # Write the JSON object into the path.
 

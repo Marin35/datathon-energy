@@ -24,7 +24,8 @@ def df_to_JSON(df_final, path_to_JSON):
     df_to_JSON = df_to_JSON.set_index("Nom commune")
 
     d = df_to_JSON.to_dict(orient='index')
-    JSON = json.dumps(d, indent=4)
+    #JSON = json.dumps(d, indent=4)
+    JSON = json.dumps(d)
 
     with open(path_to_JSON, 'w') as outfile:
         json.dump(JSON, outfile)
