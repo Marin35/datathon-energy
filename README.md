@@ -1,5 +1,5 @@
 # Anomaly detection in a network
-*Authors : Marin BOUTHEMY, Julien PERRIN, Constance Vivier, Jean-Baptiste FRAYSSE & Olivier LIOSWSKI*
+*Authors : Marin BOUTHEMY, Julien PERRIN, Constance VIVIER, Jean-Baptiste FRAYSSE & Olivier LIOSWSKI*
 
 This library  has been made to compute and process all the data and create a scoring system. We can find all the data on the internet (all of them are open data).
 They mostly came from websites such as Enedis Open Data.
