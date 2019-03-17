@@ -9,7 +9,7 @@ def get_score_column(df, column_name):
     # Get the rank of the consumption.
     rank = 'Rank' + column_name
     df_2 = df.copy()
-    df[rank] = df[column_name].rank()
+    df[rank] = df[column_name].rank(ascending=False)
     df_2['Score ' + column_name] = ((df.shape[0] + 1 - df[rank]) / df.shape[0]) * 100
     df_2 = df_2.drop(columns=column_name)
 
