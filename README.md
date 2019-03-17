@@ -26,6 +26,8 @@ To use our library, you just need to create a folder structure such as:
 
 ## Documentation and sources
 
+We are using Leaflet for the construction and visualization of the map.
+
 We have used the data from the following websites to create our scoring system:
 
 - https://www.data.gouv.fr/fr/datasets/mode-de-deplacement-domicile-travail/
