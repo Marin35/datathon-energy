@@ -1,5 +1,5 @@
 # Anomaly detection in a network
-*Authors : Marin BOUTHEMY and Julien PERRIN*
+*Authors : Marin BOUTHEMY, Julien PERRIN, Constance Vivier, Jean-Baptiste FRAYSSE & Olivier LIOSWSKI*
 
 This library  has been made to compute and process all the data and create a scoring system. We can find all the data on the internet (all of them are open data).
 They mostly came from websites such as Enedis Open Data.
@@ -25,12 +25,12 @@ To use our library, you just need to create a folder structure such as:
 
 We have used the data from the following websites to create our scoring system:
 
-https://www.data.gouv.fr/fr/datasets/mode-de-deplacement-domicile-travail/
-https://www.data.gouv.fr/fr/datasets/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques/
-https://globalwindatlas.info/
-https://globalsolaratlas.info/ 
-https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0 
-https://data.enedis.fr/pages/accueil/
+- https://www.data.gouv.fr/fr/datasets/mode-de-deplacement-domicile-travail/
+- https://www.data.gouv.fr/fr/datasets/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques/
+- https://globalwindatlas.info/
+- https://globalsolaratlas.info/ 
+- https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0 
+- https://data.enedis.fr/pages/accueil/
 
 ## Files structure
 The library contains many files. Each file has been commented.
