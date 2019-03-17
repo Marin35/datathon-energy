@@ -40,5 +40,7 @@ First the files in the src folder, those are based Python file :
  - [get_score.py] -> compute the score based on the rank of each characteristics.
  - [create_JSON.py] -> create the JSON output with the correct longitude and latitude
 
-In the dynamic-map folder, we have the files which corresponds to the front-end:
+In the interactiveMap folder, we have the files which corresponds to the front-end:
+- [JSON.js] -> JSON file which contains the cities
+- [MapProcessing.js] -> Process and display the map with the framewrok Leaflet
 
