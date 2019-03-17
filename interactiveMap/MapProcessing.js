@@ -123,7 +123,7 @@ var options = {
 				fillColor: '#8073ac',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Total
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Total ).addTo(citiesScoreTotal);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Total.toFixed(2) + " et a pour rang : " + villes[ville].Rang).addTo(citiesScoreTotal);
 		}
 		if(villes[ville].Score_Total > 35 && villes[ville].Score_Total < 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -131,7 +131,7 @@ var options = {
 				fillColor: '#fdb863',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Total
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Total ).addTo(citiesScoreTotal);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Total.toFixed(2) + " et a pour rang : " + villes[ville].Rang).addTo(citiesScoreTotal);
 		}
 		if(villes[ville].Score_Total > 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -139,34 +139,34 @@ var options = {
 				fillColor: '#b35806',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Total
-			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Total ).addTo(citiesScoreTotal);
+			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Total.toFixed(2) + " et a pour rang : " + villes[ville].Rang).addTo(citiesScoreTotal);
 		}
 
-		//------------- Score_Conso_moyenne_Residentiel_ --------------------
+		//------------- Score_conso_residentiel_ --------------------
 
-		if(villes[ville].Score_Conso_moyenne_Residentiel < 35){
+		if(villes[ville].Score_conso_residentiel < 35){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
 				color: '#8073ac',
 				fillColor: '#8073ac',
 				fillOpacity: 0.5,
-				radius: 50*villes[ville].Score_Conso_moyenne_Residentiel
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Conso_moyenne_Residentiel ).addTo(citiesScoreConsoMoyenne);
+				radius: 50*villes[ville].Score_conso_residentiel
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_conso_residentiel.toFixed(2)  ).addTo(citiesScoreConsoMoyenne);
 		}
-		if(villes[ville].Score_Conso_moyenne_Residentiel > 35 && villes[ville].Score_Conso_moyenne_Residentiel < 65){
+		if(villes[ville].Score_conso_residentiel > 35 && villes[ville].Score_conso_residentiel < 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
 				color: '#fdb863',
 				fillColor: '#fdb863',
 				fillOpacity: 0.5,
-				radius: 50*villes[ville].Score_Conso_moyenne_Residentiel
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Conso_moyenne_Residentiel ).addTo(citiesScoreConsoMoyenne);
+				radius: 50*villes[ville].Score_conso_residentiel
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_conso_residentiel.toFixed(2) ).addTo(citiesScoreConsoMoyenne);
 		}
-		if(villes[ville].Score_Conso_moyenne_Residentiel > 65){
+		if(villes[ville].Score_conso_residentiel > 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
 				color: '#b35806',
 				fillColor: '#b35806',
 				fillOpacity: 0.5,
-				radius: 50*villes[ville].Score_Conso_moyenne_Residentiel
-			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Conso_moyenne_Residentiel ).addTo(citiesScoreConsoMoyenne);
+				radius: 50*villes[ville].Score_conso_residentiel
+			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_conso_residentiel.toFixed(2) ).addTo(citiesScoreConsoMoyenne);
 		}
 
 		//------------- Score citiesSolMean --------------------
@@ -177,7 +177,7 @@ var options = {
 				fillColor: '#8073ac',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Sol_mean
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Sol_mean ).addTo(citiesSolMean);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Sol_mean.toFixed(2) ).addTo(citiesSolMean);
 		}
 		if(villes[ville].Score_Sol_mean > 35 && villes[ville].Score_Sol_mean < 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -185,7 +185,7 @@ var options = {
 				fillColor: '#fdb863',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Sol_mean
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Sol_mean ).addTo(citiesSolMean);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Sol_mean.toFixed(2) ).addTo(citiesSolMean);
 		}
 		if(villes[ville].Score_Sol_mean > 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -193,7 +193,7 @@ var options = {
 				fillColor: '#b35806',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Sol_mean
-			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Sol_mean ).addTo(citiesSolMean);
+			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Sol_mean.toFixed(2) ).addTo(citiesSolMean);
 		}
 
 		//------------- Score citiesScoreNbBorneE --------------------
@@ -204,7 +204,7 @@ var options = {
 				fillColor: '#8073ac',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_nb_borne_e
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_nb_borne_e ).addTo(citiesScoreNbBorneE);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_nb_borne_e.toFixed(2) ).addTo(citiesScoreNbBorneE);
 		}
 		if(villes[ville].Score_nb_borne_e > 35 && villes[ville].Score_nb_borne_e < 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -212,7 +212,7 @@ var options = {
 				fillColor: '#fdb863',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_nb_borne_e
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_nb_borne_e ).addTo(citiesScoreNbBorneE);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_nb_borne_e.toFixed(2) ).addTo(citiesScoreNbBorneE);
 		}
 		if(villes[ville].Score_nb_borne_e > 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -220,7 +220,7 @@ var options = {
 				fillColor: '#b35806',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_nb_borne_e
-			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_nb_borne_e ).addTo(citiesScoreNbBorneE);
+			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_nb_borne_e.toFixed(2) ).addTo(citiesScoreNbBorneE);
 		}
 
 		//------------- Score citiesScoreProp_prote --------------------
@@ -239,7 +239,7 @@ var options = {
 				fillColor: '#fdb863',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Prop_prote
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Prop_prote ).addTo(citiesScoreProp_prote);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Prop_prote.toFixed(2) ).addTo(citiesScoreProp_prote);
 		}
 		if(villes[ville].Score_Prop_prote > 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -247,7 +247,7 @@ var options = {
 				fillColor: '#b35806',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Prop_prote
-			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Prop_prote ).addTo(citiesScoreProp_prote);
+			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Prop_prote.toFixed(2) ).addTo(citiesScoreProp_prote);
 		}
 
 		//------------- Score citiesScoreVentMean --------------------
@@ -258,7 +258,7 @@ var options = {
 				fillColor: '#8073ac',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Vent_mean
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Vent_mean ).addTo(citiesScoreVentMean);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Vent_mean.toFixed(2) ).addTo(citiesScoreVentMean);
 		}
 		if(villes[ville].Score_Vent_mean > 35 && villes[ville].Score_Vent_mean < 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -266,7 +266,7 @@ var options = {
 				fillColor: '#fdb863',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Vent_mean
-			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Vent_mean ).addTo(citiesScoreVentMean);
+			}).bindPopup(ville + " a pour valeur : " + villes[ville].Score_Vent_mean.toFixed(2) ).addTo(citiesScoreVentMean);
 		}
 		if(villes[ville].Score_Vent_mean > 65){
 			var circle = L.circle([villes[ville].lat, villes[ville].lon], {
@@ -274,7 +274,7 @@ var options = {
 				fillColor: '#b35806',
 				fillOpacity: 0.5,
 				radius: 50*villes[ville].Score_Vent_mean
-			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Vent_mean ).addTo(citiesScoreVentMean);
+			}).bindPopup(ville+ " a pour valeur : " + villes[ville].Score_Vent_mean.toFixed(2) ).addTo(citiesScoreVentMean);
 		}
 
 
