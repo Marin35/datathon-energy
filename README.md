@@ -1,7 +1,7 @@
 # Detection of territories with high potential for energy transition
 *Authors : Marin BOUTHEMY, Julien PERRIN, Constance VIVIER, Jean-Baptiste FRAYSSE & Olivier LIOSWSKI*
 
-We can try our solution on: 
+You can try our solution on: 
 - http://blocktricity.io/
 
 This library  has been made to compute and process all the data and create a scoring system. We can find all the data on the internet (all of them are open data).
