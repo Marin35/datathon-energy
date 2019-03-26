@@ -1,0 +1,6027 @@
+{
+   "Nanteau-sur-Essonne": {
+      "Score": 22.074688,
+      "lat": 48.32039,
+      "lon": 2.4261656
+   },
+   "Matignon": {
+      "Score": 72.86307,
+      "lat": 48.601555,
+      "lon": -2.290156
+   },
+   "Corgengoux": {
+      "Score": 21.908714,
+      "lat": 46.988316,
+      "lon": 5.011399
+   },
+   "Dourlers": {
+      "Score": 70.45643,
+      "lat": 50.17496,
+      "lon": 3.9450698
+   },
+   "Sebourg": {
+      "Score": 46.307053,
+      "lat": 50.34421,
+      "lon": 3.6450558
+   },
+   "Arbonne-la-Foru00eat": {
+      "Score": 3.0705395,
+      "lat": 48.410385,
+      "lon": 2.5609348
+   },
+   "Villette-lu00e8s-Arbois": {
+      "Score": 82.15768,
+      "lat": 46.93349,
+      "lon": 5.7438703
+   },
+   "u00c8ve": {
+      "Score": 1.2448133,
+      "lat": 49.086834,
+      "lon": 2.7085059
+   },
+   "Saint-Sardos": {
+      "Score": 26.058092,
+      "lat": 43.902386,
+      "lon": 1.1242872
+   },
+   "Hermes": {
+      "Score": 19.004148,
+      "lat": 49.358994,
+      "lon": 2.256427
+   },
+   "Canaples": {
+      "Score": 20.912863,
+      "lat": 50.061424,
+      "lon": 2.2309227
+   },
+   "Horsarrieu": {
+      "Score": 23.983402,
+      "lat": 43.687634,
+      "lon": -0.6013351
+   },
+   "Teillu00e9": {
+      "Score": 30.622406,
+      "lat": 48.185375,
+      "lon": 0.18825722
+   },
+   "Saint-Julien-en-Quint": {
+      "Score": 90.70539,
+      "lat": 44.85296,
+      "lon": 5.2971134
+   },
+   "Neuvillette-en-Charnie": {
+      "Score": 41.825726,
+      "lat": 48.087585,
+      "lon": -0.20685637
+   },
+   "Le Touquet-Paris-Plage": {
+      "Score": 95.68465,
+      "lat": 50.508755,
+      "lon": 1.5988301
+   },
+   "Le Trait": {
+      "Score": 86.556015,
+      "lat": 49.484135,
+      "lon": 0.8199041
+   },
+   "Montmirail": {
+      "Score": 24.896265,
+      "lat": 48.10735,
+      "lon": 0.77166134
+   },
+   "Tru00e9fumel": {
+      "Score": 18.506224,
+      "lat": 48.337296,
+      "lon": -2.023931
+   },
+   "Epiniac": {
+      "Score": 32.61411,
+      "lat": 48.499733,
+      "lon": -1.7031169
+   },
+   "Prez-sous-Lafauche": {
+      "Score": 75.020744,
+      "lat": 48.275745,
+      "lon": 5.5032096
+   },
+   "Regniowez": {
+      "Score": 83.23651,
+      "lat": 49.92606,
+      "lon": 4.414857
+   },
+   "Bonneville-sur-Touques": {
+      "Score": 0.9958506,
+      "lat": 49.330418,
+      "lon": 0.11891894
+   },
+   "u00cele-d'Arz": {
+      "Score": 92.94606,
+      "lat": 47.588696,
+      "lon": -2.796537
+   },
+   "Marcilly-d'Azergues": {
+      "Score": 10.373444,
+      "lat": 45.868614,
+      "lon": 4.730711
+   },
+   "La Baconniu00e8re": {
+      "Score": 12.8630705,
+      "lat": 48.17492,
+      "lon": -0.9001495
+   },
+   "Bouesse": {
+      "Score": 62.32365,
+      "lat": 46.626415,
+      "lon": 1.6880584
+   },
+   "Fleury-la-Riviu00e8re": {
+      "Score": 3.4024897,
+      "lat": 49.103195,
+      "lon": 3.885564
+   },
+   "Voillecomte": {
+      "Score": 40.165974,
+      "lat": 48.502407,
+      "lon": 4.863384
+   },
+   "Looze": {
+      "Score": 53.112034,
+      "lat": 47.99726,
+      "lon": 3.440567
+   },
+   "Barbachen": {
+      "Score": 75.68465,
+      "lat": 43.42858,
+      "lon": 0.12612432
+   },
+   "Saint-Genest-d'Ambiu00e8re": {
+      "Score": 39.087135,
+      "lat": 46.827347,
+      "lon": 0.36061293
+   },
+   "Saint-Honoru00e9": {
+      "Score": 29.377594,
+      "lat": 49.783268,
+      "lon": 1.1573164
+   },
+   "Bouafle": {
+      "Score": 38.423237,
+      "lat": 48.960205,
+      "lon": 1.8973674
+   },
+   "Meymac": {
+      "Score": 89.62656,
+      "lat": 45.554367,
+      "lon": 2.140421
+   },
+   "Saint Gu00e9ry-Vers": {
+      "Score": 70.37344,
+      "lat": 44.48916,
+      "lon": 1.5690423
+   },
+   "Bussy-lu00e8s-Daours": {
+      "Score": 12.116182,
+      "lat": 49.912174,
+      "lon": 2.4132044
+   },
+   "Vulaines-sur-Seine": {
+      "Score": 13.029046,
+      "lat": 48.431618,
+      "lon": 2.7696822
+   },
+   "Dienne": {
+      "Score": 87.385895,
+      "lat": 45.16546,
+      "lon": 2.8078494
+   },
+   "Saint-u00c9loy-les-Tuileries": {
+      "Score": 81.908714,
+      "lat": 45.454876,
+      "lon": 1.2785367
+   },
+   "Valonne": {
+      "Score": 69.04565,
+      "lat": 47.342567,
+      "lon": 6.6680994
+   },
+   "Saint-Laurent-de-Cuves": {
+      "Score": 60,
+      "lat": 48.74992,
+      "lon": -1.1156455
+   },
+   "Montlignon": {
+      "Score": 19.917013,
+      "lat": 49.014767,
+      "lon": 2.2899427
+   },
+   "u00cele-d'Aix": {
+      "Score": 93.52697,
+      "lat": 46.018574,
+      "lon": -1.1694957
+   },
+   "Hodenc-en-Bray": {
+      "Score": 22.738588,
+      "lat": 49.472122,
+      "lon": 1.9101138
+   },
+   "Samois-sur-Seine": {
+      "Score": 63.485477,
+      "lat": 48.45693,
+      "lon": 2.7529037
+   },
+   "Luant": {
+      "Score": 20.6639,
+      "lat": 46.727463,
+      "lon": 1.5630968
+   },
+   "Bergues-sur-Sambre": {
+      "Score": 30.124481,
+      "lat": 50.029575,
+      "lon": 3.7117953
+   },
+   "Estourmel": {
+      "Score": 46.804977,
+      "lat": 50.152225,
+      "lon": 3.3214478
+   },
+   "Saint-Fort-sur-Gironde": {
+      "Score": 62.572613,
+      "lat": 45.46217,
+      "lon": -0.72193485
+   },
+   "Aillianville": {
+      "Score": 78.672195,
+      "lat": 48.33363,
+      "lon": 5.4832525
+   },
+   "Mandres-les-Roses": {
+      "Score": 12.946058,
+      "lat": 48.706005,
+      "lon": 2.5480037
+   },
+   "Manzac-sur-Vern": {
+      "Score": 47.13693,
+      "lat": 45.084244,
+      "lon": 0.5905553
+   },
+   "Coulgens": {
+      "Score": 34.93776,
+      "lat": 45.81375,
+      "lon": 0.276749
+   },
+   "Reugney": {
+      "Score": 59.502075,
+      "lat": 47.01052,
+      "lon": 6.1525536
+   },
+   "Troisvilles": {
+      "Score": 66.22407,
+      "lat": 50.102367,
+      "lon": 3.4731188
+   },
+   "Fontenois-la-Ville": {
+      "Score": 82.24066,
+      "lat": 47.93831,
+      "lon": 6.1756587
+   },
+   "Macheren": {
+      "Score": 77.510376,
+      "lat": 49.094654,
+      "lon": 6.768983
+   },
+   "Hu00e9nouville": {
+      "Score": 4.149378,
+      "lat": 49.47501,
+      "lon": 0.9519975
+   },
+   "Les Granges": {
+      "Score": 51.618256,
+      "lat": 48.057354,
+      "lon": 4.0623755
+   },
+   "Cazes-Mondenard": {
+      "Score": 35.18672,
+      "lat": 44.213135,
+      "lon": 1.2151645
+   },
+   "Saint-Germain-sur-Eaulne": {
+      "Score": 40.912865,
+      "lat": 49.76543,
+      "lon": 1.5096622
+   },
+   "Lioux": {
+      "Score": 42.6556,
+      "lat": 43.97955,
+      "lon": 5.3088217
+   },
+   "Coutiches": {
+      "Score": 22.240664,
+      "lat": 50.44997,
+      "lon": 3.1942565
+   },
+   "Removille": {
+      "Score": 87.80083,
+      "lat": 48.36699,
+      "lon": 5.845726
+   },
+   "Tours-sur-Meymont": {
+      "Score": 94.77178,
+      "lat": 45.673405,
+      "lon": 3.5764418
+   },
+   "Sainte-Croix-de-Caderle": {
+      "Score": 85.39419,
+      "lat": 44.067883,
+      "lon": 3.8703701
+   },
+   "Villiers-en-Lieu": {
+      "Score": 65.22822,
+      "lat": 48.6684,
+      "lon": 4.9051304
+   },
+   "Bages": {
+      "Score": 57.510372,
+      "lat": 42.60777,
+      "lon": 2.889098
+   },
+   "Celles": {
+      "Score": 61.742737,
+      "lat": 42.916584,
+      "lon": 1.6968149
+   },
+   "Saint-Pal-de-Mons": {
+      "Score": 82.904564,
+      "lat": 45.242245,
+      "lon": 4.282838
+   },
+   "Denting": {
+      "Score": 3.7344398,
+      "lat": 49.18414,
+      "lon": 6.542571
+   },
+   "Petit-Mars": {
+      "Score": 22.572615,
+      "lat": 47.405178,
+      "lon": -1.4566371
+   },
+   "Montfermier": {
+      "Score": 8.713693,
+      "lat": 44.22788,
+      "lon": 1.4158423
+   },
+   "Ancey": {
+      "Score": 55.435684,
+      "lat": 47.33324,
+      "lon": 4.822609
+   },
+   "Quu00e9zac": {
+      "Score": 64.6473,
+      "lat": 44.758907,
+      "lon": 2.183682
+   },
+   "Valigny": {
+      "Score": 69.792534,
+      "lat": 46.715557,
+      "lon": 2.820356
+   },
+   "Sabres": {
+      "Score": 51.20332,
+      "lat": 44.145992,
+      "lon": -0.7352831
+   },
+   "Bernes-sur-Oise": {
+      "Score": 63.900414,
+      "lat": 49.16552,
+      "lon": 2.3018458
+   },
+   "La Forie": {
+      "Score": 86.88797,
+      "lat": 45.58878,
+      "lon": 3.753485
+   },
+   "Le Mesnil-Guillaume": {
+      "Score": 13.443983,
+      "lat": 49.10511,
+      "lon": 0.2829891
+   },
+   "Neuville-sur-Seine": {
+      "Score": 13.278008,
+      "lat": 48.034996,
+      "lon": 4.4086194
+   },
+   "Uruffe": {
+      "Score": 42.904564,
+      "lat": 48.56861,
+      "lon": 5.746482
+   },
+   "Bois-Guilbert": {
+      "Score": 34.273857,
+      "lat": 49.54032,
+      "lon": 1.4137262
+   },
+   "Clu00e9den-Poher": {
+      "Score": 70.87137,
+      "lat": 48.243076,
+      "lon": -3.6642008
+   },
+   "La Monnerie-le-Montel": {
+      "Score": 90.29046,
+      "lat": 45.873558,
+      "lon": 3.6119516
+   },
+   "Sadournin": {
+      "Score": 26.721992,
+      "lat": 43.317482,
+      "lon": 0.41090065
+   },
+   "Mondavezan": {
+      "Score": 28.630705,
+      "lat": 43.241352,
+      "lon": 1.0426131
+   },
+   "Saint-Augustin": {
+      "Score": 93.443985,
+      "lat": 45.43319,
+      "lon": 1.8329934
+   },
+   "Arcizans-Avant": {
+      "Score": 65.47718,
+      "lat": 42.959007,
+      "lon": -0.11956928
+   },
+   "Kerbach": {
+      "Score": 73.94191,
+      "lat": 49.162716,
+      "lon": 6.973329
+   },
+   "Paluel": {
+      "Score": 6.639004,
+      "lat": 49.84407,
+      "lon": 0.6307191
+   },
+   "Pontru": {
+      "Score": 46.887966,
+      "lat": 49.921734,
+      "lon": 3.2010803
+   },
+   "Millam": {
+      "Score": 12.697096,
+      "lat": 50.855927,
+      "lon": 2.251183
+   },
+   "Marchamp": {
+      "Score": 77.75934,
+      "lat": 45.773903,
+      "lon": 5.550447
+   },
+   "Montoulieu": {
+      "Score": 75.435684,
+      "lat": 42.90394,
+      "lon": 1.6052252
+   },
+   "Chapet": {
+      "Score": 1.7427386,
+      "lat": 48.968315,
+      "lon": 1.9389436
+   },
+   "Dangeul": {
+      "Score": 22.489626,
+      "lat": 48.24911,
+      "lon": 0.26129806
+   },
+   "Anctoville-sur-Boscq": {
+      "Score": 10.124481,
+      "lat": 48.845886,
+      "lon": -1.5282351
+   },
+   "Allerey": {
+      "Score": 79.83402,
+      "lat": 47.190216,
+      "lon": 4.420717
+   },
+   "Vannes-sur-Cosson": {
+      "Score": 8.298756,
+      "lat": 47.71808,
+      "lon": 2.2083495
+   },
+   "La Ferriu00e8re-Bochard": {
+      "Score": 18.174274,
+      "lat": 48.415977,
+      "lon": -0.0365452
+   },
+   "Corberon": {
+      "Score": 5.3112035,
+      "lat": 47.010445,
+      "lon": 5.0090957
+   },
+   "Champs-Romain": {
+      "Score": 88.46473,
+      "lat": 45.540287,
+      "lon": 0.771276
+   },
+   "Dollon": {
+      "Score": 25.394192,
+      "lat": 48.03603,
+      "lon": 0.59356004
+   },
+   "Gaujac": {
+      "Score": 7.883817,
+      "lat": 44.075897,
+      "lon": 4.571482
+   },
+   "Chalain-le-Comtal": {
+      "Score": 32.86307,
+      "lat": 45.641106,
+      "lon": 4.171735
+   },
+   "Richeville": {
+      "Score": 8.630706,
+      "lat": 49.25781,
+      "lon": 1.5374352
+   },
+   "Ganzeville": {
+      "Score": 18.091286,
+      "lat": 49.731934,
+      "lon": 0.40364784
+   },
+   "Lamagdelaine": {
+      "Score": 28.13278,
+      "lat": 44.474403,
+      "lon": 1.5016183
+   },
+   "Ratte": {
+      "Score": 63.319504,
+      "lat": 46.639633,
+      "lon": 5.305785
+   },
+   "La Guerche-sur-l'Aubois": {
+      "Score": 65.06224,
+      "lat": 46.951767,
+      "lon": 2.9460735
+   },
+   "Vacqueville": {
+      "Score": 64.81328,
+      "lat": 48.481403,
+      "lon": 6.8172455
+   },
+   "Saint-Just-Malmont": {
+      "Score": 91.037346,
+      "lat": 45.346806,
+      "lon": 4.3224244
+   },
+   "Esmans": {
+      "Score": 11.369294,
+      "lat": 48.34323,
+      "lon": 2.9692543
+   },
+   "Saint-Lu00e9ger-aux-Bois": {
+      "Score": 54.85477,
+      "lat": 49.829834,
+      "lon": 1.6119342
+   },
+   "Saint-u00c9tienne-de-Carlat": {
+      "Score": 94.6888,
+      "lat": 44.91262,
+      "lon": 2.5850985
+   },
+   "Thu00e9oule-sur-Mer": {
+      "Score": 70.207466,
+      "lat": 43.498535,
+      "lon": 6.929832
+   },
+   "Vignols": {
+      "Score": 72.94606,
+      "lat": 45.328358,
+      "lon": 1.4010897
+   },
+   "Montferrand": {
+      "Score": 6.8879666,
+      "lat": 43.369003,
+      "lon": 1.8279786
+   },
+   "Vigny": {
+      "Score": 16.182573,
+      "lat": 49.08011,
+      "lon": 1.9300911
+   },
+   "Mersuay": {
+      "Score": 71.53527,
+      "lat": 47.784794,
+      "lon": 6.142108
+   },
+   "Du00e9voluy": {
+      "Score": 99.66805,
+      "lat": 44.684597,
+      "lon": 5.890906
+   },
+   "Vitreux": {
+      "Score": 48.547718,
+      "lat": 47.25448,
+      "lon": 5.676067
+   },
+   "Rampillon": {
+      "Score": 5.892116,
+      "lat": 48.540806,
+      "lon": 3.0731475
+   },
+   "Tignieu-Jameyzieu": {
+      "Score": 26.970955,
+      "lat": 45.73518,
+      "lon": 5.1842403
+   },
+   "u00c9pretot": {
+      "Score": 9.626556,
+      "lat": 49.53854,
+      "lon": 0.31377634
+   },
+   "Seyssinet-Pariset": {
+      "Score": 95.60166,
+      "lat": 45.172825,
+      "lon": 5.6692247
+   },
+   "Crosne": {
+      "Score": 87.71784,
+      "lat": 48.719906,
+      "lon": 2.463
+   },
+   "Saint-Viaud": {
+      "Score": 36.59751,
+      "lat": 47.247864,
+      "lon": -1.9929066
+   },
+   "Excenevex": {
+      "Score": 21.078838,
+      "lat": 46.346462,
+      "lon": 6.3414674
+   },
+   "Lestards": {
+      "Score": 95.51867,
+      "lat": 45.54186,
+      "lon": 1.8639916
+   },
+   "Provin": {
+      "Score": 80.74689,
+      "lat": 50.5131,
+      "lon": 2.9113631
+   },
+   "La Vernaz": {
+      "Score": 52.61411,
+      "lat": 46.307323,
+      "lon": 6.5953865
+   },
+   "Marquay": {
+      "Score": 39.834026,
+      "lat": 44.94082,
+      "lon": 1.1287507
+   },
+   "Pugnac": {
+      "Score": 30.373444,
+      "lat": 45.08341,
+      "lon": -0.49851242
+   },
+   "Saint-Martin-de-Coux": {
+      "Score": 42.572613,
+      "lat": 45.14626,
+      "lon": -0.11080037
+   },
+   "Couesmes": {
+      "Score": 14.190871,
+      "lat": 47.553833,
+      "lon": 0.3601017
+   },
+   "Le Mu00e9riot": {
+      "Score": 1.4107884,
+      "lat": 48.5106,
+      "lon": 3.4417086
+   },
+   "Arfons": {
+      "Score": 98.83817,
+      "lat": 43.42435,
+      "lon": 2.1893046
+   },
+   "Cancon": {
+      "Score": 52.365147,
+      "lat": 44.54733,
+      "lon": 0.62745315
+   },
+   "Chu00e2teauvieux": {
+      "Score": 7.80083,
+      "lat": 44.483986,
+      "lon": 6.051622
+   },
+   "Tessel": {
+      "Score": 6.058091,
+      "lat": 49.151485,
+      "lon": -0.5689583
+   },
+   "La Besace": {
+      "Score": 57.012447,
+      "lat": 49.553936,
+      "lon": 4.9696836
+   },
+   "Saint-Remy-sur-Bussy": {
+      "Score": 8.46473,
+      "lat": 49.06053,
+      "lon": 4.5877
+   },
+   "Longaulnay": {
+      "Score": 5.726141,
+      "lat": 48.309555,
+      "lon": -1.9410942
+   },
+   "Sauveterre": {
+      "Score": 56.680496,
+      "lat": 43.455467,
+      "lon": 0.8468602
+   },
+   "Cuse-et-Adrisans": {
+      "Score": 71.618256,
+      "lat": 47.48338,
+      "lon": 6.389041
+   },
+   "Ventalon en Cu00e9vennes": {
+      "Score": 97.01245,
+      "lat": 44.29577,
+      "lon": 3.8779337
+   },
+   "Fons-sur-Lussan": {
+      "Score": 59.585064,
+      "lat": 44.185303,
+      "lon": 4.3280363
+   },
+   "Saint-Bauzile": {
+      "Score": 30.705395,
+      "lat": 44.672997,
+      "lon": 4.669017
+   },
+   "Beaumettes": {
+      "Score": 0.746888,
+      "lat": 43.863342,
+      "lon": 5.2029905
+   },
+   "Monferran-Plavu00e8s": {
+      "Score": 37.012447,
+      "lat": 43.494526,
+      "lon": 0.6397299
+   },
+   "Mauves": {
+      "Score": 68.962654,
+      "lat": 45.028835,
+      "lon": 4.818356
+   },
+   "u00c9quennes-u00c9ramecourt": {
+      "Score": 54.522823,
+      "lat": 49.726852,
+      "lon": 1.9557568
+   },
+   "Ceilloux": {
+      "Score": 95.10374,
+      "lat": 45.65522,
+      "lon": 3.5162575
+   },
+   "Riviu00e8res": {
+      "Score": 19.585062,
+      "lat": 43.915733,
+      "lon": 1.9705083
+   },
+   "Saint-Ru00e9my-Blanzy": {
+      "Score": 31.20332,
+      "lat": 49.246117,
+      "lon": 3.307952
+   },
+   "Carsac-de-Gurson": {
+      "Score": 54.356846,
+      "lat": 44.940678,
+      "lon": 0.095026255
+   },
+   "Fahy-lu00e8s-Autrey": {
+      "Score": 79.58506,
+      "lat": 47.51153,
+      "lon": 5.478077
+   },
+   "Orry-la-Ville": {
+      "Score": 45.477177,
+      "lat": 49.14085,
+      "lon": 2.509344
+   },
+   "Hesdigneul-lu00e8s-Boulogne": {
+      "Score": 74.6888,
+      "lat": 50.65284,
+      "lon": 1.6769646
+   },
+   "Alland'Huy-et-Sausseuil": {
+      "Score": 64.06639,
+      "lat": 49.51229,
+      "lon": 4.5493746
+   },
+   "Doix lu00e8s Fontaines": {
+      "Score": 37.3444,
+      "lat": 46.400887,
+      "lon": -0.80748284
+   },
+   "Bort-les-Orgues": {
+      "Score": 88.21577,
+      "lat": 45.39341,
+      "lon": 2.4917364
+   },
+   "Formiguu00e8res": {
+      "Score": 96.016594,
+      "lat": 42.621067,
+      "lon": 2.0540342
+   },
+   "Labruyu00e8re-Dorsa": {
+      "Score": 6.5560164,
+      "lat": 43.405243,
+      "lon": 1.4709616
+   },
+   "Clarafond-Arcine": {
+      "Score": 24.481327,
+      "lat": 46.074863,
+      "lon": 5.895669
+   },
+   "Saint-Maulvis": {
+      "Score": 49.958508,
+      "lat": 49.902557,
+      "lon": 1.826504
+   },
+   "Saubion": {
+      "Score": 13.526971,
+      "lat": 43.673504,
+      "lon": -1.3328922
+   },
+   "Viels-Maisons": {
+      "Score": 18.6722,
+      "lat": 48.9068,
+      "lon": 3.3955317
+   },
+   "Bouleternu00e8re": {
+      "Score": 81.327805,
+      "lat": 42.64472,
+      "lon": 2.5880487
+   },
+   "Nogent-sur-Vernisson": {
+      "Score": 31.784233,
+      "lat": 47.838654,
+      "lon": 2.729484
+   },
+   "Pradines": {
+      "Score": 24.39834,
+      "lat": 46.000378,
+      "lon": 4.171459
+   },
+   "Nieudan": {
+      "Score": 52.282158,
+      "lat": 44.983116,
+      "lon": 2.2462504
+   },
+   "Tru00e9zioux": {
+      "Score": 77.3444,
+      "lat": 45.719505,
+      "lon": 3.4728277
+   },
+   "Cuzieu": {
+      "Score": 27.46888,
+      "lat": 45.81965,
+      "lon": 5.6760654
+   },
+   "Tonnerre": {
+      "Score": 93.11203,
+      "lat": 47.841286,
+      "lon": 3.9775207
+   },
+   "Wierre-Effroy": {
+      "Score": 11.286307,
+      "lat": 50.77211,
+      "lon": 1.7377666
+   },
+   "Saint-Sylvain": {
+      "Score": 18.008299,
+      "lat": 49.05322,
+      "lon": -0.21516559
+   },
+   "Mont-Dol": {
+      "Score": 27.053942,
+      "lat": 48.5708,
+      "lon": -1.7581652
+   },
+   "Chemilly-sur-Yonne": {
+      "Score": 25.311203,
+      "lat": 47.896767,
+      "lon": 3.5577133
+   },
+   "Bu00e9deille": {
+      "Score": 24.813278,
+      "lat": 43.34598,
+      "lon": -0.09772282
+   },
+   "Habu00e8re-Poche": {
+      "Score": 72.11618,
+      "lat": 46.255108,
+      "lon": 6.4732456
+   },
+   "Saumont": {
+      "Score": 17.095436,
+      "lat": 44.127537,
+      "lon": 0.45573854
+   },
+   "Lu00e9obard": {
+      "Score": 68.71369,
+      "lat": 44.718456,
+      "lon": 1.3079222
+   },
+   "Lafranu00e7aise": {
+      "Score": 35.850624,
+      "lat": 44.135563,
+      "lon": 1.2393785
+   },
+   "Mondonville": {
+      "Score": 44.564316,
+      "lat": 43.663254,
+      "lon": 1.2809371
+   },
+   "Chitry-les-Mines": {
+      "Score": 63.65145,
+      "lat": 47.27095,
+      "lon": 3.662815
+   },
+   "Torcu00e9": {
+      "Score": 58.34025,
+      "lat": 48.06128,
+      "lon": -1.2707118
+   },
+   "Saint-Martial-de-Gimel": {
+      "Score": 75.76763,
+      "lat": 45.272324,
+      "lon": 1.8865112
+   },
+   "Calu00e8s": {
+      "Score": 55.518673,
+      "lat": 44.863506,
+      "lon": 0.8147891
+   },
+   "Soultzbach-les-Bains": {
+      "Score": 74.27386,
+      "lat": 48.027687,
+      "lon": 7.203336
+   },
+   "Varambon": {
+      "Score": 35.02075,
+      "lat": 46.04351,
+      "lon": 5.2941904
+   },
+   "Injoux-Gu00e9nissiat": {
+      "Score": 2.9045644,
+      "lat": 46.049877,
+      "lon": 5.75955
+   },
+   "Goudelancourt-lu00e8s-Pierrepont": {
+      "Score": 38.34025,
+      "lat": 49.67855,
+      "lon": 3.8516536
+   },
+   "Fesmy-le-Sart": {
+      "Score": 45.06224,
+      "lat": 50.048122,
+      "lon": 3.6978104
+   },
+   "Aigleville": {
+      "Score": 29.128632,
+      "lat": 49.00579,
+      "lon": 1.4259368
+   },
+   "Saint-Maigrin": {
+      "Score": 40.497925,
+      "lat": 45.415287,
+      "lon": -0.27851087
+   },
+   "Sissonne": {
+      "Score": 51.037346,
+      "lat": 49.564198,
+      "lon": 3.9204085
+   },
+   "Saint-Jacques-des-Blats": {
+      "Score": 96.265564,
+      "lat": 45.055824,
+      "lon": 2.7210333
+   },
+   "Vars-sur-Roseix": {
+      "Score": 48.381744,
+      "lat": 45.26046,
+      "lon": 1.3714266
+   },
+   "Lanester": {
+      "Score": 95.850624,
+      "lat": 47.76889,
+      "lon": -3.3277516
+   },
+   "Butot-Vu00e9nesville": {
+      "Score": 15.684648,
+      "lat": 49.815197,
+      "lon": 0.5859031
+   },
+   "Saint-Lucien": {
+      "Score": 37.925312,
+      "lat": 49.50507,
+      "lon": 1.451541
+   },
+   "Berlaimont": {
+      "Score": 78.506226,
+      "lat": 50.205936,
+      "lon": 3.7934618
+   },
+   "Haselbourg": {
+      "Score": 61.41079,
+      "lat": 48.688644,
+      "lon": 7.2219467
+   },
+   "Le Fousseret": {
+      "Score": 42.240665,
+      "lat": 43.286182,
+      "lon": 1.0649366
+   },
+   "Saint-Loup-de-Buffigny": {
+      "Score": 6.307054,
+      "lat": 48.44522,
+      "lon": 3.630385
+   },
+   "Bourscheid": {
+      "Score": 15.518672,
+      "lat": 48.769127,
+      "lon": 7.1988406
+   },
+   "Narnhac": {
+      "Score": 98.506226,
+      "lat": 44.935368,
+      "lon": 2.7658322
+   },
+   "Soumoulou": {
+      "Score": 56.26556,
+      "lat": 43.261856,
+      "lon": -0.19320495
+   },
+   "Poursac": {
+      "Score": 69.377594,
+      "lat": 45.961678,
+      "lon": 0.26470697
+   },
+   "Murviel-lu00e8s-Bu00e9ziers": {
+      "Score": 37.510372,
+      "lat": 43.45788,
+      "lon": 3.1351638
+   },
+   "Yvrench": {
+      "Score": 63.73444,
+      "lat": 50.184696,
+      "lon": 2.0157146
+   },
+   "Chavagne": {
+      "Score": 85.64315,
+      "lat": 48.05632,
+      "lon": -1.7865808
+   },
+   "Lagarde-d'Apt": {
+      "Score": 75.850624,
+      "lat": 43.98415,
+      "lon": 5.4813223
+   },
+   "Sainte-Foy-d'Aigrefeuille": {
+      "Score": 2.1576765,
+      "lat": 43.550697,
+      "lon": 1.6034144
+   },
+   "Larroque": {
+      "Score": 71.36929,
+      "lat": 44.008846,
+      "lon": 1.6870824
+   },
+   "Guilliers": {
+      "Score": 76.43153,
+      "lat": 48.051918,
+      "lon": -2.4151092
+   },
+   "Fatouville-Grestain": {
+      "Score": 15.26971,
+      "lat": 49.41328,
+      "lon": 0.33271638
+   },
+   "Saint-Amarin": {
+      "Score": 85.3112,
+      "lat": 47.88822,
+      "lon": 7.0417213
+   },
+   "Comps": {
+      "Score": 18.755186,
+      "lat": 43.848385,
+      "lon": 4.592986
+   },
+   "Noisy-sur-Oise": {
+      "Score": 1.5767635,
+      "lat": 49.134457,
+      "lon": 2.3281038
+   },
+   "Aubencheul-aux-Bois": {
+      "Score": 36.18257,
+      "lat": 50.024075,
+      "lon": 3.261165
+   },
+   "Saint-Paul-du-Bois": {
+      "Score": 41.576763,
+      "lat": 47.089752,
+      "lon": -0.54163355
+   },
+   "Ambricourt": {
+      "Score": 55.18672,
+      "lat": 50.466,
+      "lon": 2.1713927
+   },
+   "Esbly": {
+      "Score": 70.0415,
+      "lat": 48.90114,
+      "lon": 2.8126512
+   },
+   "Mazu00e8res-de-Neste": {
+      "Score": 69.21162,
+      "lat": 43.075985,
+      "lon": 0.54102904
+   },
+   "Bonvillard": {
+      "Score": 77.92531,
+      "lat": 45.58268,
+      "lon": 6.3300323
+   },
+   "Azu00e9": {
+      "Score": 51.53527,
+      "lat": 47.829056,
+      "lon": -0.65778273
+   },
+   "Lautignac": {
+      "Score": 27.800829,
+      "lat": 43.37922,
+      "lon": 1.0634494
+   },
+   "Saint-Paul-des-Landes": {
+      "Score": 47.219917,
+      "lat": 44.950706,
+      "lon": 2.3002334
+   },
+   "Le Fleix": {
+      "Score": 63.40249,
+      "lat": 44.881138,
+      "lon": 0.26232067
+   },
+   "Le Guu00e9-de-Longroi": {
+      "Score": 6.9709544,
+      "lat": 48.491413,
+      "lon": 1.7075709
+   },
+   "Fontvannes": {
+      "Score": 3.5684648,
+      "lat": 48.28241,
+      "lon": 3.871178
+   },
+   "Entrelacs": {
+      "Score": 33.775932,
+      "lat": 45.785477,
+      "lon": 5.9165225
+   },
+   "Tournecoupe": {
+      "Score": 43.73444,
+      "lat": 43.861805,
+      "lon": 0.8274697
+   },
+   "Saint-Cyprien": {
+      "Score": 65.3112,
+      "lat": 45.54025,
+      "lon": 4.2299776
+   },
+   "Plumaudan": {
+      "Score": 44.81328,
+      "lat": 48.356407,
+      "lon": -2.1151164
+   },
+   "Gray": {
+      "Score": 96.84647,
+      "lat": 47.43225,
+      "lon": 5.6109242
+   },
+   "Bilhac": {
+      "Score": 76.6805,
+      "lat": 44.94213,
+      "lon": 1.7770482
+   },
+   "Lanarce": {
+      "Score": 99.502075,
+      "lat": 44.72934,
+      "lon": 3.9969807
+   },
+   "Rives de l'Yon": {
+      "Score": 26.390041,
+      "lat": 46.591663,
+      "lon": -1.3455664
+   },
+   "Saint-Vaast-d'u00c9quiqueville": {
+      "Score": 34.522823,
+      "lat": 49.815296,
+      "lon": 1.2607722
+   },
+   "Anould": {
+      "Score": 66.47303,
+      "lat": 48.18496,
+      "lon": 6.940512
+   },
+   "Saint-Cru00e9pin-Ibouvillers": {
+      "Score": 19.751038,
+      "lat": 49.264664,
+      "lon": 2.0643682
+   },
+   "Essegney": {
+      "Score": 42.157677,
+      "lat": 48.376266,
+      "lon": 6.332178
+   },
+   "Senlis": {
+      "Score": 41.991703,
+      "lat": 50.534504,
+      "lon": 2.1469324
+   },
+   "Saint-Georges-sur-Baulche": {
+      "Score": 60.165974,
+      "lat": 47.802345,
+      "lon": 3.5170445
+   },
+   "Puiseux-le-Hauberger": {
+      "Score": 4.7302904,
+      "lat": 49.21833,
+      "lon": 2.2314208
+   },
+   "Molinchart": {
+      "Score": 7.0539417,
+      "lat": 49.56277,
+      "lon": 3.5399609
+   },
+   "Marigny-Marmande": {
+      "Score": 38.755188,
+      "lat": 46.976692,
+      "lon": 0.48184112
+   },
+   "La Bazoge-Montpinu00e7on": {
+      "Score": 5.0622406,
+      "lat": 48.27163,
+      "lon": -0.58348405
+   },
+   "Rugles": {
+      "Score": 84.89626,
+      "lat": 48.816093,
+      "lon": 0.69139516
+   },
+   "Florange": {
+      "Score": 93.858925,
+      "lat": 49.328045,
+      "lon": 6.123072
+   },
+   "Peseux": {
+      "Score": 33.195023,
+      "lat": 46.99338,
+      "lon": 5.3667192
+   },
+   "Marsanne": {
+      "Score": 23.817427,
+      "lat": 44.639847,
+      "lon": 4.8834505
+   },
+   "Villeneuvette": {
+      "Score": 50.456432,
+      "lat": 43.610645,
+      "lon": 3.401452
+   },
+   "Busy": {
+      "Score": 37.26141,
+      "lat": 47.168026,
+      "lon": 5.954334
+   },
+   "Charmes": {
+      "Score": 89.04565,
+      "lat": 48.384914,
+      "lon": 6.3185787
+   },
+   "Petit-Croix": {
+      "Score": 59.336098,
+      "lat": 47.62099,
+      "lon": 6.9738536
+   },
+   "Montaigu": {
+      "Score": 82.57262,
+      "lat": 46.653946,
+      "lon": 5.573199
+   },
+   "Villars-en-Pons": {
+      "Score": 38.174274,
+      "lat": 45.603916,
+      "lon": -0.6290847
+   },
+   "Saint-Ilpize": {
+      "Score": 97.26141,
+      "lat": 45.199787,
+      "lon": 3.4064033
+   },
+   "Haudivillers": {
+      "Score": 29.792532,
+      "lat": 49.486637,
+      "lon": 2.2419395
+   },
+   "Messimy": {
+      "Score": 28.547718,
+      "lat": 45.69897,
+      "lon": 4.6725397
+   },
+   "Hu00e9ru00e9pian": {
+      "Score": 69.70954,
+      "lat": 43.59173,
+      "lon": 3.1180153
+   },
+   "Pithiviers": {
+      "Score": 88.796684,
+      "lat": 48.18037,
+      "lon": 2.249583
+   },
+   "Saint-Senoch": {
+      "Score": 12.0331955,
+      "lat": 47.0563,
+      "lon": 0.95317227
+   },
+   "Saint-Hilaire-les-Andru00e9sis": {
+      "Score": 25.06224,
+      "lat": 48.054703,
+      "lon": 3.0155914
+   },
+   "Saint-Amand-Longpru00e9": {
+      "Score": 53.775932,
+      "lat": 47.683983,
+      "lon": 1.0003277
+   },
+   "Vichu00e8res": {
+      "Score": 51.867218,
+      "lat": 48.264786,
+      "lon": 0.9070296
+   },
+   "Artix": {
+      "Score": 15.352697,
+      "lat": 43.066635,
+      "lon": 1.5621384
+   },
+   "Aillevans": {
+      "Score": 80.82987,
+      "lat": 47.59038,
+      "lon": 6.41757
+   },
+   "Damerey": {
+      "Score": 32.282158,
+      "lat": 46.834682,
+      "lon": 4.9935756
+   },
+   "Saint-Martin-de-Bavel": {
+      "Score": 61.161827,
+      "lat": 45.848106,
+      "lon": 5.6790233
+   },
+   "Koetzingue": {
+      "Score": 35.103733,
+      "lat": 47.648975,
+      "lon": 7.392747
+   },
+   "Choisel": {
+      "Score": 0.082987554,
+      "lat": 48.67439,
+      "lon": 2.015218
+   },
+   "Orthez": {
+      "Score": 89.792534,
+      "lat": 43.494297,
+      "lon": -0.78014785
+   },
+   "Storckensohn": {
+      "Score": 78.58921,
+      "lat": 47.864826,
+      "lon": 6.9432597
+   },
+   "Cheverny": {
+      "Score": 14.024897,
+      "lat": 47.477505,
+      "lon": 1.4541007
+   },
+   "Vitray-en-Beauce": {
+      "Score": 12.365146,
+      "lat": 48.27645,
+      "lon": 1.4238483
+   },
+   "Les Marches": {
+      "Score": 49.543568,
+      "lat": 45.49152,
+      "lon": 5.991906
+   },
+   "Chapdeuil": {
+      "Score": 63.568466,
+      "lat": 45.34286,
+      "lon": 0.46663186
+   },
+   "Belval": {
+      "Score": 67.05394,
+      "lat": 49.773373,
+      "lon": 4.637914
+   },
+   "Flagey-Echu00e9zeaux": {
+      "Score": 60.33195,
+      "lat": 47.159237,
+      "lon": 4.982792
+   },
+   "Saint-Nectaire": {
+      "Score": 83.56847,
+      "lat": 45.59184,
+      "lon": 2.9975946
+   },
+   "Saint-Hilaire-Cusson-la-Valmitte": {
+      "Score": 93.029045,
+      "lat": 45.36838,
+      "lon": 4.059674
+   },
+   "Perreuil": {
+      "Score": 20.165976,
+      "lat": 46.82232,
+      "lon": 4.5674257
+   },
+   "Plougonven": {
+      "Score": 56.016598,
+      "lat": 48.505608,
+      "lon": -3.7275445
+   },
+   "Virignin": {
+      "Score": 40.99585,
+      "lat": 45.72678,
+      "lon": 5.7130895
+   },
+   "Flu00eatre": {
+      "Score": 26.80498,
+      "lat": 50.757767,
+      "lon": 2.6415465
+   },
+   "La Croix-aux-Mines": {
+      "Score": 93.77593,
+      "lat": 48.20184,
+      "lon": 7.061442
+   },
+   "Carlux": {
+      "Score": 47.966805,
+      "lat": 44.88672,
+      "lon": 1.3606337
+   },
+   "Monbahus": {
+      "Score": 56.929462,
+      "lat": 44.538864,
+      "lon": 0.52480316
+   },
+   "Cu00e9rilly": {
+      "Score": 81.24481,
+      "lat": 48.177628,
+      "lon": 3.6260746
+   },
+   "Montfort-l'Amaury": {
+      "Score": 16.92946,
+      "lat": 48.771797,
+      "lon": 1.8082901
+   },
+   "Hu00e9ninel": {
+      "Score": 29.211618,
+      "lat": 50.233173,
+      "lon": 2.8715644
+   },
+   "Saint-Denis-la-Chevasse": {
+      "Score": 23.236515,
+      "lat": 46.832855,
+      "lon": -1.3833711
+   },
+   "Saint-Yvi": {
+      "Score": 54.93776,
+      "lat": 47.959938,
+      "lon": -3.9388947
+   },
+   "La Genu00eate": {
+      "Score": 55.352695,
+      "lat": 46.549294,
+      "lon": 5.0495467
+   },
+   "Feldbach": {
+      "Score": 60.99585,
+      "lat": 47.533966,
+      "lon": 7.256612
+   },
+   "Lentiol": {
+      "Score": 36.846474,
+      "lat": 45.29628,
+      "lon": 5.1037235
+   },
+   "Saint-Germain-Nuelles": {
+      "Score": 3.4854772,
+      "lat": 45.86042,
+      "lon": 4.6159873
+   },
+   "Villeneuve-sur-Allier": {
+      "Score": 25.145227,
+      "lat": 46.674393,
+      "lon": 3.2505693
+   },
+   "Montgaillard-de-Salies": {
+      "Score": 72.6971,
+      "lat": 43.059017,
+      "lon": 0.9323504
+   },
+   "Acq": {
+      "Score": 22.323652,
+      "lat": 50.34907,
+      "lon": 2.6549978
+   },
+   "La Turballe": {
+      "Score": 92.86307,
+      "lat": 47.350525,
+      "lon": -2.488728
+   },
+   "Bougy-lez-Neuville": {
+      "Score": 3.9834025,
+      "lat": 48.04179,
+      "lon": 2.0232613
+   },
+   "Guu00e9mar": {
+      "Score": 21.659752,
+      "lat": 48.194183,
+      "lon": 7.4143167
+   },
+   "Hours": {
+      "Score": 5.1452284,
+      "lat": 43.223656,
+      "lon": -0.17248921
+   },
+   "Pichanges": {
+      "Score": 16.680498,
+      "lat": 47.45603,
+      "lon": 5.1579275
+   },
+   "Wallers-en-Fagne": {
+      "Score": 75.18672,
+      "lat": 50.061337,
+      "lon": 4.166567
+   },
+   "Dracy": {
+      "Score": 36.431534,
+      "lat": 47.748966,
+      "lon": 3.2311547
+   },
+   "Tournehem-sur-la-Hem": {
+      "Score": 32.365147,
+      "lat": 50.79148,
+      "lon": 2.0476148
+   },
+   "Trespoux-Rassiels": {
+      "Score": 25.726141,
+      "lat": 44.421436,
+      "lon": 1.3583686
+   },
+   "Agy": {
+      "Score": 18.921162,
+      "lat": 49.237564,
+      "lon": -0.7790096
+   },
+   "Saint-Martin-de-Cenilly": {
+      "Score": 51.12033,
+      "lat": 48.978104,
+      "lon": -1.2857518
+   },
+   "Aressy": {
+      "Score": 72.28216,
+      "lat": 43.277966,
+      "lon": -0.3278982
+   },
+   "Valcanville": {
+      "Score": 67.80083,
+      "lat": 49.648197,
+      "lon": -1.3203812
+   },
+   "Rognac": {
+      "Score": 38.257263,
+      "lat": 43.496998,
+      "lon": 5.231108
+   },
+   "Bu00e9thonsart": {
+      "Score": 0.8298755,
+      "lat": 50.382378,
+      "lon": 2.5433671
+   },
+   "Saint-Georges-d'Annebecq": {
+      "Score": 79.3361,
+      "lat": 48.630978,
+      "lon": -0.26570654
+   },
+   "Deneuvre": {
+      "Score": 85.560165,
+      "lat": 48.427143,
+      "lon": 6.7204885
+   },
+   "Lauzerville": {
+      "Score": 4.39834,
+      "lat": 43.558067,
+      "lon": 1.5664788
+   },
+   "Barges": {
+      "Score": 28.298756,
+      "lat": 47.209316,
+      "lon": 5.059591
+   },
+   "Le Pizou": {
+      "Score": 68.46473,
+      "lat": 45.03691,
+      "lon": 0.072195105
+   },
+   "Saint-Simon": {
+      "Score": 58.6722,
+      "lat": 44.700626,
+      "lon": 1.8287094
+   },
+   "Chu00e2telblanc": {
+      "Score": 88.71369,
+      "lat": 46.66514,
+      "lon": 6.106566
+   },
+   "Doubs": {
+      "Score": 67.3029,
+      "lat": 46.931515,
+      "lon": 6.3598275
+   },
+   "Pru00e9fontaines": {
+      "Score": 31.037344,
+      "lat": 48.10657,
+      "lon": 2.6908925
+   },
+   "Fosseux": {
+      "Score": 33.443985,
+      "lat": 50.25456,
+      "lon": 2.5651894
+   },
+   "Mu00e9ricourt": {
+      "Score": 14.107883,
+      "lat": 49.03723,
+      "lon": 1.62335
+   },
+   "Les Nans": {
+      "Score": 89.21162,
+      "lat": 46.794918,
+      "lon": 5.9743543
+   },
+   "Saint-Pu00e9e-sur-Nivelle": {
+      "Score": 58.257263,
+      "lat": 43.356213,
+      "lon": -1.5555686
+   },
+   "Sancerre": {
+      "Score": 55.601658,
+      "lat": 47.32556,
+      "lon": 2.8208265
+   },
+   "La Cluse-et-Mijoux": {
+      "Score": 60.497925,
+      "lat": 46.86846,
+      "lon": 6.393466
+   },
+   "Drevant": {
+      "Score": 23.07054,
+      "lat": 46.698795,
+      "lon": 2.5235765
+   },
+   "Tazilly": {
+      "Score": 73.77593,
+      "lat": 46.7588,
+      "lon": 3.9137883
+   },
+   "Gouville sur Mer": {
+      "Score": 45.892117,
+      "lat": 49.096626,
+      "lon": -1.5664328
+   },
+   "Vergnu00e9": {
+      "Score": 33.85892,
+      "lat": 46.069946,
+      "lon": -0.51530886
+   },
+   "Marmagne": {
+      "Score": 46.14108,
+      "lat": 47.089394,
+      "lon": 2.2709315
+   },
+   "Gauchin-Verloingt": {
+      "Score": 48.46473,
+      "lat": 50.389973,
+      "lon": 2.315263
+   },
+   "Mont-l'u00c9vu00eaque": {
+      "Score": 1.659751,
+      "lat": 49.190586,
+      "lon": 2.6338174
+   },
+   "Pu00e9rigneux": {
+      "Score": 69.62656,
+      "lat": 45.447388,
+      "lon": 4.1431313
+   },
+   "Carelles": {
+      "Score": 82.6556,
+      "lat": 48.389015,
+      "lon": -0.8991382
+   },
+   "Noircourt": {
+      "Score": 60.08299,
+      "lat": 49.669598,
+      "lon": 4.0947566
+   },
+   "Doulaincourt-Saucourt": {
+      "Score": 73.11203,
+      "lat": 48.31529,
+      "lon": 5.204676
+   },
+   "Adast": {
+      "Score": 64.979256,
+      "lat": 42.974583,
+      "lon": -0.07679225
+   },
+   "Peyrabout": {
+      "Score": 67.385895,
+      "lat": 46.10041,
+      "lon": 1.9171634
+   },
+   "Gurs": {
+      "Score": 74.52282,
+      "lat": 43.276318,
+      "lon": -0.7590503
+   },
+   "Aigremont": {
+      "Score": 40.414936,
+      "lat": 43.961555,
+      "lon": 4.118159
+   },
+   "Saint-Pons": {
+      "Score": 76.76349,
+      "lat": 44.598934,
+      "lon": 4.572162
+   },
+   "Plaigne": {
+      "Score": 87.21992,
+      "lat": 43.170883,
+      "lon": 1.8079585
+   },
+   "Ribeauvillu00e9": {
+      "Score": 93.609955,
+      "lat": 48.20644,
+      "lon": 7.286695
+   },
+   "Bu00e9zu00e9ril": {
+      "Score": 20.497925,
+      "lat": 43.53587,
+      "lon": 0.880773
+   },
+   "Arthaz-Pont-Notre-Dame": {
+      "Score": 5.975104,
+      "lat": 46.160748,
+      "lon": 6.2693977
+   },
+   "u00c9tival-Clairefontaine": {
+      "Score": 70.622406,
+      "lat": 48.36441,
+      "lon": 6.8435187
+   },
+   "Villiers-le-Bu00e2cle": {
+      "Score": 9.128631,
+      "lat": 48.72908,
+      "lon": 2.1219537
+   },
+   "Meilhan-sur-Garonne": {
+      "Score": 54.439835,
+      "lat": 44.50677,
+      "lon": 0.028710349
+   },
+   "Saint-Pierre-sur-Erve": {
+      "Score": 63.81743,
+      "lat": 48.011875,
+      "lon": -0.4093968
+   },
+   "Saint-Georges-de-Baroille": {
+      "Score": 38.091286,
+      "lat": 45.853275,
+      "lon": 4.1075873
+   },
+   "Boissezon": {
+      "Score": 89.29461,
+      "lat": 43.572346,
+      "lon": 2.4055903
+   },
+   "Saint-Just-le-Martel": {
+      "Score": 16.26556,
+      "lat": 45.85266,
+      "lon": 1.3867791
+   },
+   "Fressin": {
+      "Score": 53.94191,
+      "lat": 50.44874,
+      "lon": 2.0523343
+   },
+   "Labergement-lu00e8s-Auxonne": {
+      "Score": 28.464731,
+      "lat": 47.159992,
+      "lon": 5.379848
+   },
+   "Neffes": {
+      "Score": 22.987553,
+      "lat": 44.496155,
+      "lon": 6.0259514
+   },
+   "Herleville": {
+      "Score": 44.232365,
+      "lat": 49.86144,
+      "lon": 2.7505937
+   },
+   "Saint-Romain-et-Saint-Clu00e9ment": {
+      "Score": 55.93361,
+      "lat": 45.42394,
+      "lon": 0.87248904
+   },
+   "Pranzac": {
+      "Score": 31.86722,
+      "lat": 45.673573,
+      "lon": 0.34633178
+   },
+   "Montru00e9jeau": {
+      "Score": 96.09959,
+      "lat": 43.088093,
+      "lon": 0.55773485
+   },
+   "Treize-Septiers": {
+      "Score": 56.846474,
+      "lat": 46.99748,
+      "lon": -1.2316229
+   },
+   "Saint-Germain-de-la-Grange": {
+      "Score": 8.79668,
+      "lat": 48.832626,
+      "lon": 1.9023383
+   },
+   "Saint-Laurent-en-Caux": {
+      "Score": 35.435684,
+      "lat": 49.743496,
+      "lon": 0.8881981
+   },
+   "Le Menoux": {
+      "Score": 61.493774,
+      "lat": 46.55811,
+      "lon": 1.5743098
+   },
+   "Bransat": {
+      "Score": 23.153526,
+      "lat": 46.328964,
+      "lon": 3.217022
+   },
+   "Ambleteuse": {
+      "Score": 83.40249,
+      "lat": 50.811935,
+      "lon": 1.6213539
+   },
+   "Montord": {
+      "Score": 17.676348,
+      "lat": 46.289783,
+      "lon": 3.2399974
+   },
+   "Florentin-la-Capelle": {
+      "Score": 97.92531,
+      "lat": 44.639294,
+      "lon": 2.644432
+   },
+   "Senon": {
+      "Score": 49.12863,
+      "lat": 49.28181,
+      "lon": 5.6172523
+   },
+   "Poueyferru00e9": {
+      "Score": 45.311203,
+      "lat": 43.119663,
+      "lon": -0.08028767
+   },
+   "Mesnard-la-Barotiu00e8re": {
+      "Score": 46.721992,
+      "lat": 46.851803,
+      "lon": -1.1094415
+   },
+   "Peyrens": {
+      "Score": 22.904564,
+      "lat": 43.36153,
+      "lon": 1.9609952
+   },
+   "Rodome": {
+      "Score": 98.42323,
+      "lat": 42.79647,
+      "lon": 2.067591
+   },
+   "Saint-Martin-Cantalu00e8s": {
+      "Score": 92.28216,
+      "lat": 45.08927,
+      "lon": 2.3055387
+   },
+   "Ectot-l'Auber": {
+      "Score": 8.13278,
+      "lat": 49.655064,
+      "lon": 0.9303281
+   },
+   "Moussy": {
+      "Score": 14.439834,
+      "lat": 49.015404,
+      "lon": 3.9238055
+   },
+   "Montaut": {
+      "Score": 51.701244,
+      "lat": 43.727997,
+      "lon": -0.65668166
+   },
+   "Souzay-Champigny": {
+      "Score": 23.73444,
+      "lat": 47.217697,
+      "lon": -0.021048164
+   },
+   "Biarrotte": {
+      "Score": 36.099586,
+      "lat": 43.55715,
+      "lon": -1.2728485
+   },
+   "Trigny": {
+      "Score": 11.53527,
+      "lat": 49.29757,
+      "lon": 3.889676
+   },
+   "Landu00e9bia": {
+      "Score": 43.485477,
+      "lat": 48.515213,
+      "lon": -2.337432
+   },
+   "Aire": {
+      "Score": 51.452282,
+      "lat": 49.470737,
+      "lon": 4.163686
+   },
+   "Billiat": {
+      "Score": 7.385892,
+      "lat": 46.07917,
+      "lon": 5.765877
+   },
+   "Ecot-la-Combe": {
+      "Score": 83.3195,
+      "lat": 48.2077,
+      "lon": 5.396899
+   },
+   "Choue": {
+      "Score": 47.80083,
+      "lat": 47.997967,
+      "lon": 0.9313643
+   },
+   "Vinon-sur-Verdon": {
+      "Score": 19.502075,
+      "lat": 43.7222,
+      "lon": 5.8075166
+   },
+   "Asnan": {
+      "Score": 92.53112,
+      "lat": 47.310333,
+      "lon": 3.5523674
+   },
+   "Siouville-Hague": {
+      "Score": 14.937759,
+      "lat": 49.559814,
+      "lon": -1.8306923
+   },
+   "Maravat": {
+      "Score": 71.203316,
+      "lat": 43.760857,
+      "lon": 0.76381016
+   },
+   "Bainville-sur-Madon": {
+      "Score": 53.52697,
+      "lat": 48.589764,
+      "lon": 6.08732
+   },
+   "Rahart": {
+      "Score": 24.315353,
+      "lat": 47.870052,
+      "lon": 1.0610654
+   },
+   "Dinsac": {
+      "Score": 79.41909,
+      "lat": 46.24075,
+      "lon": 1.1106232
+   },
+   "Craonne": {
+      "Score": 57.26141,
+      "lat": 49.44764,
+      "lon": 3.791316
+   },
+   "Princu00e9": {
+      "Score": 39.00415,
+      "lat": 48.237526,
+      "lon": -1.1058618
+   },
+   "Is-en-Bassigny": {
+      "Score": 78.0083,
+      "lat": 48.034443,
+      "lon": 5.4467325
+   },
+   "Rilly-Sainte-Syre": {
+      "Score": 7.634855,
+      "lat": 48.449947,
+      "lon": 3.9675732
+   },
+   "Saint-Hilaire-d'Ozilhan": {
+      "Score": 21.825726,
+      "lat": 43.972725,
+      "lon": 4.5999136
+   },
+   "Saint-Clar": {
+      "Score": 55.850624,
+      "lat": 43.892445,
+      "lon": 0.7612885
+   },
+   "Castetpugon": {
+      "Score": 57.925312,
+      "lat": 43.56308,
+      "lon": -0.22860335
+   },
+   "Simard": {
+      "Score": 49.294605,
+      "lat": 46.716583,
+      "lon": 5.182994
+   },
+   "Neauphle-le-Chu00e2teau": {
+      "Score": 43.983402,
+      "lat": 48.812386,
+      "lon": 1.9049165
+   },
+   "Montmorency-Beaufort": {
+      "Score": 17.261412,
+      "lat": 48.486923,
+      "lon": 4.556557
+   },
+   "Biesles": {
+      "Score": 74.024895,
+      "lat": 48.1027,
+      "lon": 5.2858686
+   },
+   "Cru00e9on-d'Armagnac": {
+      "Score": 50.954357,
+      "lat": 43.995426,
+      "lon": -0.08246365
+   },
+   "Clergoux": {
+      "Score": 87.3029,
+      "lat": 45.276115,
+      "lon": 1.9569651
+   },
+   "Satillieu": {
+      "Score": 82.82158,
+      "lat": 45.141693,
+      "lon": 4.5876207
+   },
+   "Plouisy": {
+      "Score": 61.825726,
+      "lat": 48.58395,
+      "lon": -3.191208
+   },
+   "u00c9pinonville": {
+      "Score": 97.676346,
+      "lat": 49.273407,
+      "lon": 5.0834317
+   },
+   "Grandpuits-Bailly-Carrois": {
+      "Score": 15.850622,
+      "lat": 48.582108,
+      "lon": 2.9764035
+   },
+   "Saint-Victor-des-Oules": {
+      "Score": 42.821575,
+      "lat": 44.043022,
+      "lon": 4.484595
+   },
+   "Couvron-et-Aumencourt": {
+      "Score": 44.97925,
+      "lat": 49.645615,
+      "lon": 3.5234778
+   },
+   "Clasville": {
+      "Score": 2.240664,
+      "lat": 49.793167,
+      "lon": 0.6207506
+   },
+   "Oye-et-Pallet": {
+      "Score": 44.896267,
+      "lat": 46.851707,
+      "lon": 6.3389835
+   },
+   "Vitrac-Saint-Vincent": {
+      "Score": 70.95435,
+      "lat": 45.797382,
+      "lon": 0.4949849
+   },
+   "Roizy": {
+      "Score": 21.493776,
+      "lat": 49.426414,
+      "lon": 4.1852846
+   },
+   "Allons": {
+      "Score": 68.381744,
+      "lat": 44.193172,
+      "lon": -0.08015815
+   },
+   "Calvisson": {
+      "Score": 50.539417,
+      "lat": 43.787872,
+      "lon": 4.1888766
+   },
+   "Tagolsheim": {
+      "Score": 39.502075,
+      "lat": 47.655396,
+      "lon": 7.264657
+   },
+   "Bou": {
+      "Score": 30.53942,
+      "lat": 47.87023,
+      "lon": 2.0471117
+   },
+   "Dompierre-les-Tilleuls": {
+      "Score": 57.59336,
+      "lat": 46.886925,
+      "lon": 6.163828
+   },
+   "Buzancy": {
+      "Score": 77.01245,
+      "lat": 49.418446,
+      "lon": 4.9737515
+   },
+   "Plainfaing": {
+      "Score": 92.448135,
+      "lat": 48.142746,
+      "lon": 7.037548
+   },
+   "Aumont-en-Halatte": {
+      "Score": 0.24896266,
+      "lat": 49.233055,
+      "lon": 2.5522902
+   },
+   "Torcy-le-Petit": {
+      "Score": 43.319504,
+      "lat": 49.815414,
+      "lon": 1.1796764
+   },
+   "Loisia": {
+      "Score": 90.12448,
+      "lat": 46.494137,
+      "lon": 5.462422
+   },
+   "Saint-Laurent-des-Arbres": {
+      "Score": 6.473029,
+      "lat": 44.05544,
+      "lon": 4.692148
+   },
+   "Vensac": {
+      "Score": 56.431534,
+      "lat": 45.39918,
+      "lon": -1.074451
+   },
+   "La Vieille-Lyre": {
+      "Score": 43.65145,
+      "lat": 48.92102,
+      "lon": 0.7500857
+   },
+   "Tru00e9gonneau": {
+      "Score": 47.634853,
+      "lat": 48.61393,
+      "lon": -3.1632652
+   },
+   "Gau00ebl": {
+      "Score": 55.26971,
+      "lat": 48.118484,
+      "lon": -2.228624
+   },
+   "Larreule": {
+      "Score": 22.40664,
+      "lat": 43.473698,
+      "lon": -0.4713026
+   },
+   "Hannogne-Saint-Ru00e9my": {
+      "Score": 82.07469,
+      "lat": 49.606247,
+      "lon": 4.142891
+   },
+   "Blaison-Saint-Sulpice": {
+      "Score": 15.767634,
+      "lat": 47.39231,
+      "lon": -0.3841594
+   },
+   "Meysse": {
+      "Score": 16.597511,
+      "lat": 44.619617,
+      "lon": 4.7164536
+   },
+   "Cassaigne": {
+      "Score": 29.045643,
+      "lat": 43.903725,
+      "lon": 0.34441775
+   },
+   "Saint-Bu00e9nigne": {
+      "Score": 24.647303,
+      "lat": 46.452084,
+      "lon": 4.9531617
+   },
+   "Saint-Esteben": {
+      "Score": 32.697094,
+      "lat": 43.329224,
+      "lon": -1.2167115
+   },
+   "Issus": {
+      "Score": 4.5643153,
+      "lat": 43.423035,
+      "lon": 1.5026798
+   },
+   "Buire-sur-l'Ancre": {
+      "Score": 49.211617,
+      "lat": 49.975224,
+      "lon": 2.5932326
+   },
+   "Bu00e9ganne": {
+      "Score": 83.983406,
+      "lat": 47.60271,
+      "lon": -2.2442384
+   },
+   "Anzat-le-Luguet": {
+      "Score": 98.34025,
+      "lat": 45.330524,
+      "lon": 3.0121548
+   },
+   "Luc-sur-Aude": {
+      "Score": 86.970955,
+      "lat": 42.96354,
+      "lon": 2.281051
+   },
+   "Sauzet": {
+      "Score": 59.834026,
+      "lat": 44.4183,
+      "lon": 1.2598696
+   },
+   "Roche": {
+      "Score": 95.3527,
+      "lat": 45.616158,
+      "lon": 3.9210894
+   },
+   "Chantrignu00e9": {
+      "Score": 66.141075,
+      "lat": 48.412853,
+      "lon": -0.55945104
+   },
+   "Aurons": {
+      "Score": 1.493776,
+      "lat": 43.6713,
+      "lon": 5.148947
+   },
+   "Montpezat": {
+      "Score": 28.713694,
+      "lat": 43.85404,
+      "lon": 4.1593075
+   },
+   "Viarmes": {
+      "Score": 30.954357,
+      "lat": 49.123413,
+      "lon": 2.3784776
+   },
+   "Guernes": {
+      "Score": 13.195021,
+      "lat": 49.015305,
+      "lon": 1.6417384
+   },
+   "Havernas": {
+      "Score": 11.20332,
+      "lat": 50.035866,
+      "lon": 2.2303205
+   },
+   "Sonnac-sur-l'Hers": {
+      "Score": 81.57677,
+      "lat": 43.015842,
+      "lon": 2.0027573
+   },
+   "Lutilhous": {
+      "Score": 65.39419,
+      "lat": 43.13391,
+      "lon": 0.32631782
+   },
+   "Forgu00e8s": {
+      "Score": 89.377594,
+      "lat": 45.159065,
+      "lon": 1.8647772
+   },
+   "Annay": {
+      "Score": 36.929462,
+      "lat": 47.53088,
+      "lon": 2.9418097
+   },
+   "La Couture": {
+      "Score": 35.352695,
+      "lat": 46.523502,
+      "lon": -1.2643313
+   },
+   "Chambu00e9ria": {
+      "Score": 80.912865,
+      "lat": 46.46941,
+      "lon": 5.570258
+   },
+   "Fouilloy": {
+      "Score": 81.16183,
+      "lat": 49.890354,
+      "lon": 2.5047517
+   },
+   "Thaas": {
+      "Score": 1.0788382,
+      "lat": 48.639347,
+      "lon": 3.8704104
+   },
+   "u00c9crainville": {
+      "Score": 17.925312,
+      "lat": 49.646317,
+      "lon": 0.31347016
+   },
+   "La Limouziniu00e8re": {
+      "Score": 14.273859,
+      "lat": 46.987484,
+      "lon": -1.6412842
+   },
+   "Touu00ebt-sur-Var": {
+      "Score": 45.975105,
+      "lat": 43.943634,
+      "lon": 7.013811
+   },
+   "Mu00e9lisey": {
+      "Score": 58.423237,
+      "lat": 47.919975,
+      "lon": 4.075148
+   },
+   "Bieuzy": {
+      "Score": 79.917015,
+      "lat": 47.99963,
+      "lon": -3.0348558
+   },
+   "Bournan": {
+      "Score": 27.966805,
+      "lat": 47.06819,
+      "lon": 0.7306628
+   },
+   "Rouves": {
+      "Score": 13.941909,
+      "lat": 48.90238,
+      "lon": 6.205058
+   },
+   "Sainte-Colombe-en-Bruilhois": {
+      "Score": 5.560166,
+      "lat": 44.187054,
+      "lon": 0.5160273
+   },
+   "Trouhans": {
+      "Score": 33.278008,
+      "lat": 47.152596,
+      "lon": 5.2709904
+   },
+   "Mons": {
+      "Score": 16.099585,
+      "lat": 44.12094,
+      "lon": 4.177889
+   },
+   "Puissalicon": {
+      "Score": 33.360996,
+      "lat": 43.454,
+      "lon": 3.23774
+   },
+   "Montoir-de-Bretagne": {
+      "Score": 79.087135,
+      "lat": 47.323284,
+      "lon": -2.1464396
+   },
+   "Saint-Edmond": {
+      "Score": 45.228214,
+      "lat": 46.203457,
+      "lon": 4.2103896
+   },
+   "Marennes": {
+      "Score": 60.663902,
+      "lat": 45.822594,
+      "lon": -1.1091388
+   },
+   "Gratens": {
+      "Score": 20.331951,
+      "lat": 43.326077,
+      "lon": 1.1231531
+   },
+   "Le Tronquay": {
+      "Score": 47.302906,
+      "lat": 49.437813,
+      "lon": 1.4541376
+   },
+   "Parenty": {
+      "Score": 40.663902,
+      "lat": 50.594143,
+      "lon": 1.8008564
+   },
+   "Brognard": {
+      "Score": 12.19917,
+      "lat": 47.527657,
+      "lon": 6.8652563
+   },
+   "Saint-Quentin-sur-Sauxillanges": {
+      "Score": 89.46058,
+      "lat": 45.54518,
+      "lon": 3.4159458
+   },
+   "Roderen": {
+      "Score": 38.506226,
+      "lat": 47.778797,
+      "lon": 7.08628
+   },
+   "Escaudain": {
+      "Score": 94.27386,
+      "lat": 50.333656,
+      "lon": 3.3410165
+   },
+   "Pommerit-le-Vicomte": {
+      "Score": 62.074688,
+      "lat": 48.618256,
+      "lon": -3.102924
+   },
+   "Bussang": {
+      "Score": 90.87137,
+      "lat": 47.891605,
+      "lon": 6.876919
+   },
+   "Cuisia": {
+      "Score": 67.21992,
+      "lat": 46.546883,
+      "lon": 5.4048643
+   },
+   "Cru00e9santignes": {
+      "Score": 2.5726142,
+      "lat": 48.142414,
+      "lon": 4.0197644
+   },
+   "Villers-sous-Chalamont": {
+      "Score": 81.078835,
+      "lat": 46.901634,
+      "lon": 6.044967
+   },
+   "Vieux-Vy-sur-Couesnon": {
+      "Score": 34.60581,
+      "lat": 48.33454,
+      "lon": -1.4991742
+   },
+   "Gontaud-de-Nogaret": {
+      "Score": 27.717842,
+      "lat": 44.46118,
+      "lon": 0.29223928
+   },
+   "Talant": {
+      "Score": 94.35685,
+      "lat": 47.339184,
+      "lon": 4.9975452
+   },
+   "Rancenay": {
+      "Score": 37.759335,
+      "lat": 47.18616,
+      "lon": 5.9458113
+   },
+   "u00cele-Tudy": {
+      "Score": 91.36929,
+      "lat": 47.85369,
+      "lon": -4.1607285
+   },
+   "Limousis": {
+      "Score": 86.80498,
+      "lat": 43.327682,
+      "lon": 2.404981
+   },
+   "Crespiu00e8res": {
+      "Score": 8.049792,
+      "lat": 48.882103,
+      "lon": 1.9208621
+   },
+   "Delincourt": {
+      "Score": 13.360996,
+      "lat": 49.239468,
+      "lon": 1.8326064
+   },
+   "Colomars": {
+      "Score": 1.8257262,
+      "lat": 43.75869,
+      "lon": 7.223235
+   },
+   "Paru00e7ay-Meslay": {
+      "Score": 34.85477,
+      "lat": 47.452145,
+      "lon": 0.7425757
+   },
+   "Calais": {
+      "Score": 96.6805,
+      "lat": 50.950367,
+      "lon": 1.8755484
+   },
+   "Guinzeling": {
+      "Score": 33.52697,
+      "lat": 48.879967,
+      "lon": 6.8435597
+   },
+   "Lixing-lu00e8s-Saint-Avold": {
+      "Score": 52.033195,
+      "lat": 49.03451,
+      "lon": 6.741126
+   },
+   "Azille": {
+      "Score": 73.029045,
+      "lat": 43.2739,
+      "lon": 2.6567712
+   },
+   "Bu00e9nesse-Maremne": {
+      "Score": 48.132782,
+      "lat": 43.634335,
+      "lon": -1.3647088
+   },
+   "Neuville-Vitasse": {
+      "Score": 18.838175,
+      "lat": 50.247284,
+      "lon": 2.8191166
+   },
+   "Camu00e9las": {
+      "Score": 46.556015,
+      "lat": 42.63865,
+      "lon": 2.6881983
+   },
+   "Osmoy": {
+      "Score": 1.1618258,
+      "lat": 47.063362,
+      "lon": 2.5058484
+   },
+   "Salles-sur-l'Hers": {
+      "Score": 37.095436,
+      "lat": 43.29426,
+      "lon": 1.7818509
+   },
+   "Saint-Barthu00e9lemy-de-Su00e9chilienne": {
+      "Score": 40.33195,
+      "lat": 45.039722,
+      "lon": 5.8219633
+   },
+   "Maisdon-sur-Su00e8vre": {
+      "Score": 33.692947,
+      "lat": 47.116318,
+      "lon": -1.3884052
+   },
+   "Err": {
+      "Score": 90.95435,
+      "lat": 42.41079,
+      "lon": 2.065763
+   },
+   "Clessu00e9": {
+      "Score": 47.38589,
+      "lat": 46.418236,
+      "lon": 4.8214455
+   },
+   "Talon": {
+      "Score": 88.962654,
+      "lat": 47.334854,
+      "lon": 3.55643
+   },
+   "Jeuxey": {
+      "Score": 58.92116,
+      "lat": 48.20044,
+      "lon": 6.4896426
+   },
+   "Nozay": {
+      "Score": 57.842323,
+      "lat": 48.66075,
+      "lon": 2.2382724
+   },
+   "Saint-Martial-sur-Nu00e9": {
+      "Score": 27.883818,
+      "lat": 45.577904,
+      "lon": -0.37116975
+   },
+   "La Chapelle-Neuve": {
+      "Score": 62.157677,
+      "lat": 47.85582,
+      "lon": -2.9339316
+   },
+   "Saint-Bris-le-Vineux": {
+      "Score": 64.149376,
+      "lat": 47.739887,
+      "lon": 3.6567314
+   },
+   "Bernay": {
+      "Score": 91.203316,
+      "lat": 49.092518,
+      "lon": 0.5890398
+   },
+   "Charbonniu00e8res": {
+      "Score": 68.87967,
+      "lat": 48.18948,
+      "lon": 0.9436085
+   },
+   "Renneville": {
+      "Score": 6.2240663,
+      "lat": 49.396446,
+      "lon": 1.3262601
+   },
+   "u00c9chevannes": {
+      "Score": 68.29875,
+      "lat": 47.070717,
+      "lon": 6.236129
+   },
+   "Saint-Jean-du-Falga": {
+      "Score": 78.42323,
+      "lat": 43.0867,
+      "lon": 1.6242192
+   },
+   "Renage": {
+      "Score": 64.23237,
+      "lat": 45.33147,
+      "lon": 5.4934897
+   },
+   "Rousies": {
+      "Score": 87.966805,
+      "lat": 50.271503,
+      "lon": 3.9990938
+   },
+   "Nanteuil-sur-Aisne": {
+      "Score": 53.029045,
+      "lat": 49.50274,
+      "lon": 4.29657
+   },
+   "Saint-Jacques-d'Aliermont": {
+      "Score": 25.809128,
+      "lat": 49.848213,
+      "lon": 1.2522537
+   },
+   "Ascarat": {
+      "Score": 58.755188,
+      "lat": 43.183376,
+      "lon": -1.2626337
+   },
+   "Courcu00f4me": {
+      "Score": 66.88797,
+      "lat": 45.98578,
+      "lon": 0.13370465
+   },
+   "Saint-Aubin": {
+      "Score": 66.72199,
+      "lat": 47.03274,
+      "lon": 5.333324
+   },
+   "Ossas-Suhare": {
+      "Score": 87.88382,
+      "lat": 43.13906,
+      "lon": -0.9064179
+   },
+   "Romont": {
+      "Score": 74.10789,
+      "lat": 48.347054,
+      "lon": 6.5808816
+   },
+   "Thizay": {
+      "Score": 26.307055,
+      "lat": 46.89883,
+      "lon": 1.9287852
+   },
+   "Vieille-u00c9glise-en-Yvelines": {
+      "Score": 6.3900414,
+      "lat": 48.670097,
+      "lon": 1.8744622
+   },
+   "Montzu00e9ville": {
+      "Score": 70.53942,
+      "lat": 49.188614,
+      "lon": 5.2168746
+   },
+   "Lachy": {
+      "Score": 9.294606,
+      "lat": 48.769463,
+      "lon": 3.7011805
+   },
+   "Margency": {
+      "Score": 54.024895,
+      "lat": 49.001507,
+      "lon": 2.2892911
+   },
+   "Sainghin-en-Weppes": {
+      "Score": 72.033195,
+      "lat": 50.559444,
+      "lon": 2.8971233
+   },
+   "Lussan-Adeilhac": {
+      "Score": 77.095436,
+      "lat": 43.29587,
+      "lon": 0.9516631
+   },
+   "Calanhel": {
+      "Score": 91.618256,
+      "lat": 48.440647,
+      "lon": -3.4755466
+   },
+   "Villeau": {
+      "Score": 26.639004,
+      "lat": 48.240795,
+      "lon": 1.5973295
+   },
+   "Eyzerac": {
+      "Score": 51.950207,
+      "lat": 45.38741,
+      "lon": 0.90228647
+   },
+   "Baliracq-Maumusson": {
+      "Score": 31.618258,
+      "lat": 43.54158,
+      "lon": -0.24999453
+   },
+   "Leucate": {
+      "Score": 99.917015,
+      "lat": 42.899136,
+      "lon": 3.0261073
+   },
+   "Vaudesincourt": {
+      "Score": 13.112033,
+      "lat": 49.217293,
+      "lon": 4.382303
+   },
+   "Fontaine-au-Bois": {
+      "Score": 71.95021,
+      "lat": 50.136806,
+      "lon": 3.6433063
+   },
+   "Caumont": {
+      "Score": 81.41079,
+      "lat": 43.024036,
+      "lon": 1.0797526
+   },
+   "Pollionnay": {
+      "Score": 10.622407,
+      "lat": 45.768444,
+      "lon": 4.6593175
+   },
+   "Entremont-le-Vieux": {
+      "Score": 91.53527,
+      "lat": 45.461765,
+      "lon": 5.8849244
+   },
+   "Talais": {
+      "Score": 68.63071,
+      "lat": 45.476135,
+      "lon": -1.0626495
+   },
+   "Val-de-Chalvagne": {
+      "Score": 97.42738,
+      "lat": 43.904434,
+      "lon": 6.765686
+   },
+   "Loubressac": {
+      "Score": 49.377594,
+      "lat": 44.866467,
+      "lon": 1.7908524
+   },
+   "Campagnac": {
+      "Score": 55.767635,
+      "lat": 44.03295,
+      "lon": 1.839058
+   },
+   "Cercoux": {
+      "Score": 50.87137,
+      "lat": 45.127678,
+      "lon": -0.20755006
+   },
+   "Varouville": {
+      "Score": 56.34855,
+      "lat": 49.67081,
+      "lon": -1.37148
+   },
+   "Hirtzbach": {
+      "Score": 59.087135,
+      "lat": 47.590683,
+      "lon": 7.2082148
+   },
+   "Semussac": {
+      "Score": 40.08299,
+      "lat": 45.599445,
+      "lon": -0.9155437
+   },
+   "Rosey": {
+      "Score": 32.19917,
+      "lat": 46.73977,
+      "lon": 4.7150407
+   },
+   "Suippes": {
+      "Score": 45.726143,
+      "lat": 49.125534,
+      "lon": 4.5253944
+   },
+   "Chaux-Neuve": {
+      "Score": 64.31535,
+      "lat": 46.655903,
+      "lon": 6.1524434
+   },
+   "Lavaru00e9": {
+      "Score": 31.120333,
+      "lat": 48.058094,
+      "lon": 0.6573656
+   },
+   "Migron": {
+      "Score": 18.589212,
+      "lat": 45.805935,
+      "lon": -0.3974955
+   },
+   "Saint-Yrieix-le-Du00e9jalat": {
+      "Score": 90.45643,
+      "lat": 45.45516,
+      "lon": 1.9701854
+   },
+   "Moret-Loing-et-Orvanne": {
+      "Score": 53.85892,
+      "lat": 48.354702,
+      "lon": 2.819764
+   },
+   "Campigny": {
+      "Score": 11.86722,
+      "lat": 49.24963,
+      "lon": -0.80098456
+   },
+   "Malauzat": {
+      "Score": 36.016598,
+      "lat": 45.85971,
+      "lon": 3.0609539
+   },
+   "Plou": {
+      "Score": 30.290457,
+      "lat": 47.031857,
+      "lon": 2.1483319
+   },
+   "Pionsat": {
+      "Score": 78.091286,
+      "lat": 46.119793,
+      "lon": 2.6851504
+   },
+   "Manzat": {
+      "Score": 76.59751,
+      "lat": 45.944687,
+      "lon": 2.9398103
+   },
+   "Montsaunu00e8s": {
+      "Score": 29.958506,
+      "lat": 43.1095,
+      "lon": 0.93268853
+   },
+   "Aloxe-Corton": {
+      "Score": 86.47303,
+      "lat": 47.068024,
+      "lon": 4.8615766
+   },
+   "La Romaine": {
+      "Score": 77.26141,
+      "lat": 47.538506,
+      "lon": 5.8997955
+   },
+   "Fu00e9niers": {
+      "Score": 93.69295,
+      "lat": 45.74425,
+      "lon": 2.1265707
+   },
+   "Kruth": {
+      "Score": 83.734436,
+      "lat": 47.95086,
+      "lon": 6.962988
+   },
+   "Blainville-sur-Mer": {
+      "Score": 50.290455,
+      "lat": 49.07305,
+      "lon": -1.5745499
+   },
+   "Fougaron": {
+      "Score": 98.25726,
+      "lat": 42.98128,
+      "lon": 0.9362749
+   },
+   "Magny": {
+      "Score": 18.340248,
+      "lat": 47.605774,
+      "lon": 7.0460153
+   },
+   "Nuncq-Hautecu00f4te": {
+      "Score": 26.141079,
+      "lat": 50.307373,
+      "lon": 2.2863975
+   },
+   "Saint-Ours": {
+      "Score": 76.51453,
+      "lat": 45.83934,
+      "lon": 2.9150598
+   },
+   "Jailly-les-Moulins": {
+      "Score": 94.19087,
+      "lat": 47.462536,
+      "lon": 4.5938497
+   },
+   "Varces-Alliu00e8res-et-Risset": {
+      "Score": 62.40664,
+      "lat": 45.091213,
+      "lon": 5.677326
+   },
+   "Saint-Ru00e9my-du-Plain": {
+      "Score": 34.190872,
+      "lat": 48.37612,
+      "lon": -1.5664015
+   },
+   "u00c9tigny": {
+      "Score": 65.64315,
+      "lat": 48.13677,
+      "lon": 3.275936
+   },
+   "Bessais-le-Fromental": {
+      "Score": 57.3444,
+      "lat": 46.747513,
+      "lon": 2.7745864
+   },
+   "Landorthe": {
+      "Score": 7.3029046,
+      "lat": 43.12956,
+      "lon": 0.77719104
+   },
+   "Flavy-le-Martel": {
+      "Score": 54.190872,
+      "lat": 49.705677,
+      "lon": 3.1945314
+   },
+   "Comberouger": {
+      "Score": 41.742737,
+      "lat": 43.87158,
+      "lon": 1.0933298
+   },
+   "Jambles": {
+      "Score": 66.390045,
+      "lat": 46.773823,
+      "lon": 4.6798596
+   },
+   "Saint-Coulomb": {
+      "Score": 52.44813,
+      "lat": 48.67732,
+      "lon": -1.9212948
+   },
+   "Chappes": {
+      "Score": 48.215767,
+      "lat": 45.865147,
+      "lon": 3.2265284
+   },
+   "Ablon-sur-Seine": {
+      "Score": 94.10789,
+      "lat": 48.724655,
+      "lon": 2.4212573
+   },
+   "Acheville": {
+      "Score": 45.809128,
+      "lat": 50.384583,
+      "lon": 2.8824883
+   },
+   "Vendres": {
+      "Score": 89.70954,
+      "lat": 43.258144,
+      "lon": 3.2270484
+   },
+   "Thibie": {
+      "Score": 3.319502,
+      "lat": 48.91824,
+      "lon": 4.2108264
+   },
+   "Saint-Sernin-du-Plain": {
+      "Score": 55.103733,
+      "lat": 46.89215,
+      "lon": 4.617368
+   },
+   "Brou": {
+      "Score": 80.6639,
+      "lat": 48.217354,
+      "lon": 1.1575598
+   },
+   "Plovan": {
+      "Score": 86.72199,
+      "lat": 47.932922,
+      "lon": -4.360119
+   },
+   "Brainville-sur-Meuse": {
+      "Score": 76.84647,
+      "lat": 48.175594,
+      "lon": 5.5924845
+   },
+   "Cravant": {
+      "Score": 34.439835,
+      "lat": 47.833626,
+      "lon": 1.5811962
+   },
+   "Bouchamps-lu00e8s-Craon": {
+      "Score": 16.514523,
+      "lat": 47.806496,
+      "lon": -0.9850837
+   },
+   "Foameix-Ornel": {
+      "Score": 14.688797,
+      "lat": 49.23877,
+      "lon": 5.6078577
+   },
+   "Saint-Symphorien-de-Mahun": {
+      "Score": 99.00415,
+      "lat": 45.156284,
+      "lon": 4.5501356
+   },
+   "Taupont": {
+      "Score": 51.369293,
+      "lat": 47.96269,
+      "lon": -2.442924
+   },
+   "Moringhem": {
+      "Score": 20.829876,
+      "lat": 50.763123,
+      "lon": 2.1273375
+   },
+   "Flamets-Fru00e9tils": {
+      "Score": 80.082985,
+      "lat": 49.725807,
+      "lon": 1.5822141
+   },
+   "Bissey-sous-Cruchaud": {
+      "Score": 27.302904,
+      "lat": 46.729507,
+      "lon": 4.6925697
+   },
+   "Cramaille": {
+      "Score": 47.46888,
+      "lat": 49.22858,
+      "lon": 3.4521308
+   },
+   "Saint-Caradec": {
+      "Score": 71.037346,
+      "lat": 48.191814,
+      "lon": -2.8675125
+   },
+   "Cormeilles": {
+      "Score": 26.556017,
+      "lat": 49.642296,
+      "lon": 2.196744
+   },
+   "La Chapelle-du-Mont-de-France": {
+      "Score": 85.145226,
+      "lat": 46.381214,
+      "lon": 4.5405297
+   },
+   "Saint-Aignan": {
+      "Score": 20.248962,
+      "lat": 44.021156,
+      "lon": 1.072642
+   },
+   "Nantoin": {
+      "Score": 44.398342,
+      "lat": 45.439095,
+      "lon": 5.266901
+   },
+   "Saint-Geyrac": {
+      "Score": 51.28631,
+      "lat": 45.07485,
+      "lon": 0.9070409
+   },
+   "Villeparois": {
+      "Score": 59.751038,
+      "lat": 47.663536,
+      "lon": 6.181091
+   },
+   "Saint-Hilaire-en-Wou00ebvre": {
+      "Score": 47.053944,
+      "lat": 49.07488,
+      "lon": 5.706228
+   },
+   "Bonviller": {
+      "Score": 29.543568,
+      "lat": 48.6281,
+      "lon": 6.4954433
+   },
+   "Guu00e9thary": {
+      "Score": 86.22407,
+      "lat": 43.420902,
+      "lon": -1.609858
+   },
+   "Bussy-le-Chu00e2teau": {
+      "Score": 67.13693,
+      "lat": 49.059505,
+      "lon": 4.5318794
+   },
+   "Lumes": {
+      "Score": 86.390045,
+      "lat": 49.735058,
+      "lon": 4.786852
+   },
+   "Nouzerines": {
+      "Score": 85.72614,
+      "lat": 46.38902,
+      "lon": 2.1108286
+   },
+   "Marcenod": {
+      "Score": 40.580914,
+      "lat": 45.572975,
+      "lon": 4.481629
+   },
+   "Vains": {
+      "Score": 38.838173,
+      "lat": 48.67649,
+      "lon": -1.4246018
+   },
+   "Malaincourt-sur-Meuse": {
+      "Score": 87.46888,
+      "lat": 48.154842,
+      "lon": 5.604694
+   },
+   "Offin": {
+      "Score": 57.427387,
+      "lat": 50.44165,
+      "lon": 1.9525765
+   },
+   "Les Haies": {
+      "Score": 17.59336,
+      "lat": 45.512352,
+      "lon": 4.738008
+   },
+   "Carling": {
+      "Score": 88.04979,
+      "lat": 49.166477,
+      "lon": 6.7137976
+   },
+   "Porcieu-Amblagnieu": {
+      "Score": 5.2282157,
+      "lat": 45.837738,
+      "lon": 5.392873
+   },
+   "Fanlac": {
+      "Score": 65.145226,
+      "lat": 45.069496,
+      "lon": 1.0934118
+   },
+   "Hartmannswiller": {
+      "Score": 62.987553,
+      "lat": 47.859657,
+      "lon": 7.1985636
+   },
+   "Cu00e9rons": {
+      "Score": 46.224068,
+      "lat": 44.627464,
+      "lon": -0.3404975
+   },
+   "Montels": {
+      "Score": 65.80913,
+      "lat": 43.006313,
+      "lon": 1.4697335
+   },
+   "Bailleul": {
+      "Score": 41.244812,
+      "lat": 50.025658,
+      "lon": 1.8549031
+   },
+   "Oulches": {
+      "Score": 65.975105,
+      "lat": 46.602837,
+      "lon": 1.3097843
+   },
+   "Gourdon": {
+      "Score": 74.77178,
+      "lat": 44.734898,
+      "lon": 1.3768408
+   },
+   "Le Cayrol": {
+      "Score": 89.12863,
+      "lat": 44.585655,
+      "lon": 2.7837622
+   },
+   "Saint-Martin-de-Nigelles": {
+      "Score": 4.232365,
+      "lat": 48.613503,
+      "lon": 1.6149192
+   },
+   "Hu00e8res": {
+      "Score": 48.79668,
+      "lat": 43.550285,
+      "lon": -0.0014354362
+   },
+   "La Neuville-Chant-d'Oisel": {
+      "Score": 15.93361,
+      "lat": 49.36854,
+      "lon": 1.2495428
+   },
+   "Francaltroff": {
+      "Score": 44.73029,
+      "lat": 48.962353,
+      "lon": 6.7955503
+   },
+   "Salaunes": {
+      "Score": 19.087137,
+      "lat": 44.927807,
+      "lon": -0.84615386
+   },
+   "Meisenthal": {
+      "Score": 84.48133,
+      "lat": 48.971264,
+      "lon": 7.345578
+   },
+   "Herserange": {
+      "Score": 98.0083,
+      "lat": 49.518673,
+      "lon": 5.7915115
+   },
+   "Orlu": {
+      "Score": 58.008297,
+      "lat": 42.658295,
+      "lon": 1.936755
+   },
+   "Verdigny": {
+      "Score": 7.551867,
+      "lat": 47.348427,
+      "lon": 2.8111117
+   },
+   "Saint-Julien-de-la-Liu00e8gue": {
+      "Score": 17.344398,
+      "lat": 49.1404,
+      "lon": 1.2863888
+   },
+   "Saint-Germain-des-Fossu00e9s": {
+      "Score": 80.16598,
+      "lat": 46.19602,
+      "lon": 3.4293263
+   },
+   "Morre": {
+      "Score": 41.493774,
+      "lat": 47.21947,
+      "lon": 6.0723104
+   },
+   "Palleau": {
+      "Score": 27.634855,
+      "lat": 46.965916,
+      "lon": 5.032086
+   },
+   "Gurmenu00e7on": {
+      "Score": 84.31535,
+      "lat": 43.158436,
+      "lon": -0.5993995
+   },
+   "Berrac": {
+      "Score": 10.705394,
+      "lat": 44.01105,
+      "lon": 0.5496677
+   },
+   "Voingt": {
+      "Score": 99.087135,
+      "lat": 45.806267,
+      "lon": 2.5410547
+   },
+   "Louvie-Juzon": {
+      "Score": 85.22822,
+      "lat": 43.073536,
+      "lon": -0.3379603
+   },
+   "Chu00e2tel-Guyon": {
+      "Score": 80.99585,
+      "lat": 45.92072,
+      "lon": 3.062512
+   },
+   "Salers": {
+      "Score": 91.12033,
+      "lat": 45.145702,
+      "lon": 2.4972026
+   },
+   "Branville": {
+      "Score": 19.253113,
+      "lat": 49.269375,
+      "lon": 0.023231713
+   },
+   "Lagarde": {
+      "Score": 41.161827,
+      "lat": 43.304405,
+      "lon": 0.020132022
+   },
+   "Saint-Brieuc-de-Mauron": {
+      "Score": 86.30705,
+      "lat": 48.089943,
+      "lon": -2.3611252
+   },
+   "Beaumont-de-Pertuis": {
+      "Score": 37.842323,
+      "lat": 43.737473,
+      "lon": 5.6959305
+   },
+   "Guimps": {
+      "Score": 28.962656,
+      "lat": 45.466263,
+      "lon": -0.2545533
+   },
+   "La Framboisiu00e8re": {
+      "Score": 36.26556,
+      "lat": 48.59703,
+      "lon": 1.0158364
+   },
+   "Bergu00e8res-sous-Montmirail": {
+      "Score": 33.94191,
+      "lat": 48.845287,
+      "lon": 3.597021
+   },
+   "Villy-le-Pelloux": {
+      "Score": 20.082987,
+      "lat": 46.00044,
+      "lon": 6.1365647
+   },
+   "Ampilly-le-Sec": {
+      "Score": 75.26971,
+      "lat": 47.810146,
+      "lon": 4.503058
+   },
+   "Veix": {
+      "Score": 97.59336,
+      "lat": 45.502007,
+      "lon": 1.8382095
+   },
+   "Cru00e9cy-Couvu00e9": {
+      "Score": 53.360996,
+      "lat": 48.68031,
+      "lon": 1.2829076
+   },
+   "Saint-Amand-sur-Ornain": {
+      "Score": 96.76349,
+      "lat": 48.62686,
+      "lon": 5.3944035
+   },
+   "Montaigu-le-Blin": {
+      "Score": 67.46888,
+      "lat": 46.290707,
+      "lon": 3.5163395
+   },
+   "Laval-en-Brie": {
+      "Score": 6.8049793,
+      "lat": 48.45478,
+      "lon": 2.9758408
+   },
+   "Saint-Quentin-en-Tourmont": {
+      "Score": 39.336098,
+      "lat": 50.27969,
+      "lon": 1.5768758
+   },
+   "Rocquigny": {
+      "Score": 34.107883,
+      "lat": 50.01943,
+      "lon": 3.9733968
+   },
+   "Danne-et-Quatre-Vents": {
+      "Score": 46.639004,
+      "lat": 48.76259,
+      "lon": 7.291487
+   },
+   "Montfuron": {
+      "Score": 11.120332,
+      "lat": 43.8317,
+      "lon": 5.688303
+   },
+   "Momy": {
+      "Score": 69.29461,
+      "lat": 43.388123,
+      "lon": -0.103068136
+   },
+   "Zouafques": {
+      "Score": 9.958507,
+      "lat": 50.82319,
+      "lon": 2.0529063
+   },
+   "Inchy": {
+      "Score": 67.63486,
+      "lat": 50.121765,
+      "lon": 3.4707105
+   },
+   "Cestayrols": {
+      "Score": 49.626556,
+      "lat": 43.98291,
+      "lon": 1.9873753
+   },
+   "Le Gu00e2vre": {
+      "Score": 45.560165,
+      "lat": 47.52818,
+      "lon": -1.7940695
+   },
+   "Saint-Guinoux": {
+      "Score": 32.44813,
+      "lat": 48.579994,
+      "lon": -1.8886702
+   },
+   "Essuiles": {
+      "Score": 9.045643,
+      "lat": 49.480072,
+      "lon": 2.282083
+   },
+   "Pargues": {
+      "Score": 29.626556,
+      "lat": 48.01812,
+      "lon": 4.205371
+   },
+   "La Salle": {
+      "Score": 44.315353,
+      "lat": 48.324036,
+      "lon": 6.8129125
+   },
+   "Saint-Lys": {
+      "Score": 41.41079,
+      "lat": 43.510223,
+      "lon": 1.1988236
+   },
+   "Arthenac": {
+      "Score": 38.6722,
+      "lat": 45.503616,
+      "lon": -0.32363254
+   },
+   "Saint-Avit": {
+      "Score": 26.887966,
+      "lat": 45.198925,
+      "lon": 4.964482
+   },
+   "Magescq": {
+      "Score": 31.535269,
+      "lat": 43.77385,
+      "lon": -1.1995555
+   },
+   "Siersthal": {
+      "Score": 53.60996,
+      "lat": 49.05086,
+      "lon": 7.3560157
+   },
+   "Cers": {
+      "Score": 41.3278,
+      "lat": 43.330036,
+      "lon": 3.3172047
+   },
+   "Juzet-d'Izaut": {
+      "Score": 97.3444,
+      "lat": 42.96997,
+      "lon": 0.7575571
+   },
+   "Fru00e9gimont": {
+      "Score": 23.900415,
+      "lat": 44.27714,
+      "lon": 0.4635281
+   },
+   "Thervay": {
+      "Score": 53.692947,
+      "lat": 47.240463,
+      "lon": 5.609231
+   },
+   "Jusix": {
+      "Score": 32.946056,
+      "lat": 44.539314,
+      "lon": 0.048484895
+   },
+   "La Ru00e9para-Auriples": {
+      "Score": 8.3817425,
+      "lat": 44.66116,
+      "lon": 4.994673
+   },
+   "Malemort-du-Comtat": {
+      "Score": 31.950207,
+      "lat": 44.01925,
+      "lon": 5.1677833
+   },
+   "Allouagne": {
+      "Score": 77.42738,
+      "lat": 50.532196,
+      "lon": 2.5050905
+   },
+   "Fru00e9nouville": {
+      "Score": 33.112034,
+      "lat": 49.13277,
+      "lon": -0.24849588
+   },
+   "Roubia": {
+      "Score": 59.253113,
+      "lat": 43.249897,
+      "lon": 2.796969
+   },
+   "Nersac": {
+      "Score": 70.12448,
+      "lat": 45.62549,
+      "lon": 0.062232144
+   },
+   "Aubignas": {
+      "Score": 31.286306,
+      "lat": 44.58531,
+      "lon": 4.63324
+   },
+   "Bussy-en-Othe": {
+      "Score": 71.86722,
+      "lat": 48.040833,
+      "lon": 3.5060794
+   },
+   "Saint-Clu00e9ment": {
+      "Score": 90.207466,
+      "lat": 48.22472,
+      "lon": 3.3072207
+   },
+   "Lavours": {
+      "Score": 74.60581,
+      "lat": 45.81096,
+      "lon": 5.7726555
+   },
+   "Laroin": {
+      "Score": 58.506226,
+      "lat": 43.29685,
+      "lon": -0.4364325
+   },
+   "Vaujours": {
+      "Score": 81.74274,
+      "lat": 48.932503,
+      "lon": 2.5816014
+   },
+   "Mussidan": {
+      "Score": 90.0415,
+      "lat": 45.029346,
+      "lon": 0.36457992
+   },
+   "Puiseux-en-Bray": {
+      "Score": 23.651453,
+      "lat": 49.41135,
+      "lon": 1.7789814
+   },
+   "Saint-Hilaire": {
+      "Score": 93.27801,
+      "lat": 44.788895,
+      "lon": 2.1494772
+   },
+   "Sceaux-du-Gu00e2tinais": {
+      "Score": 17.012447,
+      "lat": 48.120934,
+      "lon": 2.5909703
+   },
+   "Croissy-sur-Seine": {
+      "Score": 54.107883,
+      "lat": 48.87832,
+      "lon": 2.136116
+   },
+   "Villeroy": {
+      "Score": 0.66390043,
+      "lat": 48.983,
+      "lon": 2.7825618
+   },
+   "Les Monts d'Aunay": {
+      "Score": 71.452286,
+      "lat": 48.983643,
+      "lon": -0.64269346
+   },
+   "Ru00e9milly": {
+      "Score": 84.979256,
+      "lat": 46.828064,
+      "lon": 3.793328
+   },
+   "Chazey-Bons": {
+      "Score": 52.116184,
+      "lat": 45.80082,
+      "lon": 5.673481
+   },
+   "Denipaire": {
+      "Score": 69.46058,
+      "lat": 48.33909,
+      "lon": 6.9614286
+   },
+   "Chu00e2teau-Chinon (Ville)": {
+      "Score": 76.265564,
+      "lat": 47.062668,
+      "lon": 3.9277074
+   },
+   "Lonrai": {
+      "Score": 34.356846,
+      "lat": 48.45305,
+      "lon": 0.036816463
+   },
+   "Feuillade": {
+      "Score": 72.19917,
+      "lat": 45.59273,
+      "lon": 0.46691215
+   },
+   "La Ronde-Haye": {
+      "Score": 43.81743,
+      "lat": 49.127144,
+      "lon": -1.4424797
+   },
+   "Domessargues": {
+      "Score": 22.157677,
+      "lat": 43.973827,
+      "lon": 4.165331
+   },
+   "Veckersviller": {
+      "Score": 70.78838,
+      "lat": 48.830376,
+      "lon": 7.1863775
+   },
+   "Reichsfeld": {
+      "Score": 70.29046,
+      "lat": 48.363243,
+      "lon": 7.3802366
+   },
+   "Fleury-sur-Andelle": {
+      "Score": 69.54357,
+      "lat": 49.36396,
+      "lon": 1.3523018
+   },
+   "Sainte-Mesme": {
+      "Score": 14.356847,
+      "lat": 48.535763,
+      "lon": 1.9411775
+   },
+   "Saint-Ouen-le-Pin": {
+      "Score": 9.792531,
+      "lat": 49.15073,
+      "lon": 0.10346021
+   },
+   "Theneuil": {
+      "Score": 28.79668,
+      "lat": 47.099327,
+      "lon": 0.4336376
+   },
+   "Soumans": {
+      "Score": 79.502075,
+      "lat": 46.304543,
+      "lon": 2.3312578
+   },
+   "Bu00e9thune": {
+      "Score": 95.435684,
+      "lat": 50.529026,
+      "lon": 2.643029
+   },
+   "Saint-Saturnin-du-Limet": {
+      "Score": 15.020747,
+      "lat": 47.815884,
+      "lon": -1.089206
+   },
+   "Maurens": {
+      "Score": 3.6514523,
+      "lat": 43.584686,
+      "lon": 0.91730464
+   },
+   "Chazelles": {
+      "Score": 98.17427,
+      "lat": 45.106167,
+      "lon": 3.326941
+   },
+   "Fontaine-le-Sec": {
+      "Score": 57.67635,
+      "lat": 49.943798,
+      "lon": 1.8043281
+   },
+   "Magstatt-le-Bas": {
+      "Score": 21.991701,
+      "lat": 47.63903,
+      "lon": 7.412202
+   },
+   "Chaumousey": {
+      "Score": 62.904564,
+      "lat": 48.173443,
+      "lon": 6.3322253
+   },
+   "Chaux-la-Lotiu00e8re": {
+      "Score": 12.4481325,
+      "lat": 47.382195,
+      "lon": 5.967224
+   },
+   "Nieul-lu00e8s-Saintes": {
+      "Score": 32.033195,
+      "lat": 45.75462,
+      "lon": -0.74578154
+   },
+   "Perrancey-les-Vieux-Moulins": {
+      "Score": 68.796684,
+      "lat": 47.85674,
+      "lon": 5.275499
+   },
+   "Yviers": {
+      "Score": 46.05809,
+      "lat": 45.27387,
+      "lon": -0.024629133
+   },
+   "Saint-Hilaire-de-Chalu00e9ons": {
+      "Score": 34.688797,
+      "lat": 47.095764,
+      "lon": -1.8802959
+   },
+   "Douains": {
+      "Score": 2.3236516,
+      "lat": 49.043964,
+      "lon": 1.4316851
+   },
+   "Bourgueil": {
+      "Score": 3.8174274,
+      "lat": 47.309574,
+      "lon": 0.17476231
+   },
+   "Nolay": {
+      "Score": 88.29875,
+      "lat": 46.959103,
+      "lon": 4.6198764
+   },
+   "Verlus": {
+      "Score": 43.568466,
+      "lat": 43.599747,
+      "lon": -0.1993828
+   },
+   "Besse-et-Saint-Anastaise": {
+      "Score": 96.92946,
+      "lat": 45.496857,
+      "lon": 2.9070327
+   },
+   "Chu00e2tillon": {
+      "Score": 61.991703,
+      "lat": 46.462288,
+      "lon": 3.1295474
+   },
+   "Rochetaillu00e9e-sur-Sau00f4ne": {
+      "Score": 46.47303,
+      "lat": 45.84367,
+      "lon": 4.838709
+   },
+   "Bu00e9ning-lu00e8s-Saint-Avold": {
+      "Score": 74.439835,
+      "lat": 49.134422,
+      "lon": 6.838251
+   },
+   "Porcaro": {
+      "Score": 57.095436,
+      "lat": 47.919937,
+      "lon": -2.1935215
+   },
+   "Salettes": {
+      "Score": 99.75104,
+      "lat": 44.866615,
+      "lon": 3.9805288
+   },
+   "Pontchardon": {
+      "Score": 92.11618,
+      "lat": 48.930454,
+      "lon": 0.26221895
+   },
+   "Pru00e9sailles": {
+      "Score": 98.75519,
+      "lat": 44.890503,
+      "lon": 4.0440993
+   },
+   "Vou": {
+      "Score": 33.029045,
+      "lat": 47.09396,
+      "lon": 0.8468886
+   },
+   "Chalamont": {
+      "Score": 56.763485,
+      "lat": 46.00751,
+      "lon": 5.1694474
+   },
+   "Mu00e9zu00e8res": {
+      "Score": 94.52282,
+      "lat": 45.16751,
+      "lon": 4.01399
+   },
+   "Jarret": {
+      "Score": 28.879667,
+      "lat": 43.074947,
+      "lon": -0.016714184
+   },
+   "Vergons": {
+      "Score": 99.58506,
+      "lat": 43.91519,
+      "lon": 6.6042953
+   },
+   "Tu00e9thieu": {
+      "Score": 9.377593,
+      "lat": 43.74694,
+      "lon": -0.9596136
+   },
+   "Schoenau": {
+      "Score": 9.211618,
+      "lat": 48.226566,
+      "lon": 7.6512527
+   },
+   "Savigny-en-Revermont": {
+      "Score": 63.236515,
+      "lat": 46.633804,
+      "lon": 5.391205
+   },
+   "Pru00e9gilbert": {
+      "Score": 49.87552,
+      "lat": 47.636333,
+      "lon": 3.6802428
+   },
+   "Hagenbach": {
+      "Score": 39.585064,
+      "lat": 47.645794,
+      "lon": 7.1615477
+   },
+   "Riel-les-Eaux": {
+      "Score": 74.93776,
+      "lat": 47.988937,
+      "lon": 4.6804223
+   },
+   "Moulin-Neuf": {
+      "Score": 51.784233,
+      "lat": 43.07119,
+      "lon": 1.9486649
+   },
+   "Miramas": {
+      "Score": 84.149376,
+      "lat": 43.58419,
+      "lon": 5.013949
+   },
+   "Fontenay-sur-Vu00e8gre": {
+      "Score": 4.647303,
+      "lat": 47.907265,
+      "lon": -0.2160212
+   },
+   "Avesnes-le-Comte": {
+      "Score": 55.02075,
+      "lat": 50.27189,
+      "lon": 2.5284433
+   },
+   "Saint-Julien-en-Saint-Alban": {
+      "Score": 43.900414,
+      "lat": 44.758305,
+      "lon": 4.6933203
+   },
+   "Valdurenque": {
+      "Score": 43.153526,
+      "lat": 43.57212,
+      "lon": 2.3107016
+   },
+   "Augy": {
+      "Score": 83.81743,
+      "lat": 47.770317,
+      "lon": 3.6219487
+   },
+   "Authon-du-Perche": {
+      "Score": 53.443985,
+      "lat": 48.20214,
+      "lon": 0.88581747
+   },
+   "Saussenac": {
+      "Score": 20.746887,
+      "lat": 43.99375,
+      "lon": 2.2548516
+   },
+   "Le Plan-de-la-Tour": {
+      "Score": 2.4896266,
+      "lat": 43.338573,
+      "lon": 6.5478363
+   },
+   "Abzac": {
+      "Score": 60.829876,
+      "lat": 45.010784,
+      "lon": -0.12944718
+   },
+   "Tenteling": {
+      "Score": 12.53112,
+      "lat": 49.125126,
+      "lon": 6.9282675
+   },
+   "Bief": {
+      "Score": 37.178425,
+      "lat": 47.32199,
+      "lon": 6.7737975
+   },
+   "Saint-Pierre-des-Tripiers": {
+      "Score": 98.921165,
+      "lat": 44.224777,
+      "lon": 3.2702322
+   },
+   "Neuilly-le-Ru00e9al": {
+      "Score": 17.759336,
+      "lat": 46.466816,
+      "lon": 3.436983
+   },
+   "Arinthod": {
+      "Score": 80,
+      "lat": 46.3938,
+      "lon": 5.582171
+   },
+   "Igu00e9": {
+      "Score": 67.88382,
+      "lat": 46.405228,
+      "lon": 4.734916
+   },
+   "Pru00e9neron": {
+      "Score": 19.419086,
+      "lat": 43.727455,
+      "lon": 0.269229
+   },
+   "Seilhac": {
+      "Score": 67.551865,
+      "lat": 45.36671,
+      "lon": 1.7231075
+   },
+   "Le Haut-Corlay": {
+      "Score": 69.9585,
+      "lat": 48.340458,
+      "lon": -3.0321076
+   },
+   "Blagny": {
+      "Score": 91.452286,
+      "lat": 49.623314,
+      "lon": 5.198252
+   },
+   "Alairac": {
+      "Score": 26.224066,
+      "lat": 43.18177,
+      "lon": 2.2356992
+   },
+   "Blotzheim": {
+      "Score": 47.717842,
+      "lat": 47.604366,
+      "lon": 7.4952035
+   },
+   "Monfort": {
+      "Score": 61.3278,
+      "lat": 43.791668,
+      "lon": 0.8255125
+   },
+   "Warlaing": {
+      "Score": 12.614108,
+      "lat": 50.40945,
+      "lon": 3.3238223
+   },
+   "Fresnoy-Folny": {
+      "Score": 45.39419,
+      "lat": 49.887047,
+      "lon": 1.4352553
+   },
+   "Saint-Martin-de-Juillers": {
+      "Score": 15.186722,
+      "lat": 45.93889,
+      "lon": -0.34457567
+   },
+   "May-en-Multien": {
+      "Score": 5.6431537,
+      "lat": 49.07006,
+      "lon": 3.024848
+   },
+   "Saint-Philibert": {
+      "Score": 10.788382,
+      "lat": 47.203125,
+      "lon": 5.0139422
+   },
+   "Tourtoirac": {
+      "Score": 78.75519,
+      "lat": 45.272408,
+      "lon": 1.0551381
+   },
+   "Le Val d'Ocre": {
+      "Score": 61.576763,
+      "lat": 47.819748,
+      "lon": 3.2951264
+   },
+   "Saint-Victor": {
+      "Score": 95.76763,
+      "lat": 45.009693,
+      "lon": 2.2887208
+   },
+   "Saint-Plaisir": {
+      "Score": 65.72614,
+      "lat": 46.62438,
+      "lon": 2.9558043
+   },
+   "Azerailles": {
+      "Score": 80.41494,
+      "lat": 48.497646,
+      "lon": 6.6945477
+   },
+   "Ambutrix": {
+      "Score": 6.7219915,
+      "lat": 45.93673,
+      "lon": 5.3323493
+   },
+   "Champagnat": {
+      "Score": 83.15353,
+      "lat": 46.483448,
+      "lon": 5.36921
+   },
+   "Pu00e9roy-les-Gombries": {
+      "Score": 7.4688797,
+      "lat": 49.165222,
+      "lon": 2.8429394
+   },
+   "Arette": {
+      "Score": 96.59751,
+      "lat": 43.039654,
+      "lon": -0.7361961
+   },
+   "Nu00e9vache": {
+      "Score": 94.93776,
+      "lat": 45.044113,
+      "lon": 6.5987825
+   },
+   "Dru00e9mil-Lafage": {
+      "Score": 2.8215768,
+      "lat": 43.591305,
+      "lon": 1.6027812
+   },
+   "Bouret-sur-Canche": {
+      "Score": 25.228216,
+      "lat": 50.268215,
+      "lon": 2.323353
+   },
+   "Vadencourt": {
+      "Score": 60.580914,
+      "lat": 49.922947,
+      "lon": 3.57466
+   },
+   "Montberthault": {
+      "Score": 66.556015,
+      "lat": 47.46147,
+      "lon": 4.157892
+   },
+   "Colombier-le-Vieux": {
+      "Score": 75.3527,
+      "lat": 45.059135,
+      "lon": 4.6992173
+   },
+   "Menditte": {
+      "Score": 74.19087,
+      "lat": 43.168915,
+      "lon": -0.88522196
+   },
+   "Suzannecourt": {
+      "Score": 58.58921,
+      "lat": 48.442547,
+      "lon": 5.180553
+   },
+   "Roumoules": {
+      "Score": 68.547714,
+      "lat": 43.821632,
+      "lon": 6.1489096
+   },
+   "Castillon": {
+      "Score": 20,
+      "lat": 49.195686,
+      "lon": -0.7978218
+   },
+   "Glanges": {
+      "Score": 69.87552,
+      "lat": 45.659706,
+      "lon": 1.4611083
+   },
+   "Saint-Michel-d'Aurance": {
+      "Score": 90.53942,
+      "lat": 44.8987,
+      "lon": 4.4556
+   },
+   "Saint-Jurs": {
+      "Score": 92.19917,
+      "lat": 43.898666,
+      "lon": 6.1928754
+   },
+   "Tossiat": {
+      "Score": 33.60996,
+      "lat": 46.138515,
+      "lon": 5.3035936
+   },
+   "Chalandry-Elaire": {
+      "Score": 60.912865,
+      "lat": 49.707573,
+      "lon": 4.7552247
+   },
+   "Andelnans": {
+      "Score": 83.65145,
+      "lat": 47.603504,
+      "lon": 6.865471
+   },
+   "Buxy": {
+      "Score": 52.86307,
+      "lat": 46.713516,
+      "lon": 4.7126794
+   },
+   "Gornac": {
+      "Score": 49.045643,
+      "lat": 44.663326,
+      "lon": -0.18384643
+   },
+   "Milly-la-Foru00eat": {
+      "Score": 18.257261,
+      "lat": 48.403015,
+      "lon": 2.464228
+   },
+   "Saint-Symphorien-de-Thu00e9niu00e8res": {
+      "Score": 94.024895,
+      "lat": 44.74026,
+      "lon": 2.708891
+   },
+   "Harbonniu00e8res": {
+      "Score": 82.40664,
+      "lat": 49.85049,
+      "lon": 2.6698086
+   },
+   "Marcy": {
+      "Score": 0.41493776,
+      "lat": 49.85348,
+      "lon": 3.410894
+   },
+   "Larnage": {
+      "Score": 21.742739,
+      "lat": 45.099102,
+      "lon": 4.862539
+   },
+   "Les Trois-Domaines": {
+      "Score": 67.966805,
+      "lat": 48.97067,
+      "lon": 5.2816076
+   },
+   "Baillou": {
+      "Score": 44.149376,
+      "lat": 47.983585,
+      "lon": 0.85312635
+   },
+   "Annot": {
+      "Score": 80.497925,
+      "lat": 43.962284,
+      "lon": 6.663489
+   },
+   "Saint-Cyr-du-Bailleul": {
+      "Score": 83.07054,
+      "lat": 48.568073,
+      "lon": -0.82707244
+   },
+   "Lunegarde": {
+      "Score": 73.69295,
+      "lat": 44.683372,
+      "lon": 1.6926373
+   },
+   "Seppois-le-Bas": {
+      "Score": 24.564316,
+      "lat": 47.538067,
+      "lon": 7.1687512
+   },
+   "Saint-Point-Lac": {
+      "Score": 66.30705,
+      "lat": 46.810707,
+      "lon": 6.295533
+   },
+   "Sennevoy-le-Haut": {
+      "Score": 81.82573,
+      "lat": 47.811657,
+      "lon": 4.2643123
+   },
+   "Vallauris": {
+      "Score": 88.381744,
+      "lat": 43.576546,
+      "lon": 7.0580916
+   },
+   "Benest": {
+      "Score": 87.13693,
+      "lat": 46.038826,
+      "lon": 0.45316398
+   },
+   "Freycenet-la-Cuche": {
+      "Score": 96.43153,
+      "lat": 44.89712,
+      "lon": 4.0938425
+   },
+   "Yolet": {
+      "Score": 77.59336,
+      "lat": 44.93137,
+      "lon": 2.5378215
+   },
+   "La Tour-du-Pin": {
+      "Score": 91.70125,
+      "lat": 45.57345,
+      "lon": 5.4452
+   },
+   "Saint-Malo-de-la-Lande": {
+      "Score": 25.975103,
+      "lat": 49.063538,
+      "lon": -1.5424131
+   },
+   "La Roche-Posay": {
+      "Score": 48.049793,
+      "lat": 46.775288,
+      "lon": 0.8021448
+   },
+   "Saint-Mamert-du-Gard": {
+      "Score": 19.668049,
+      "lat": 43.88322,
+      "lon": 4.1733994
+   },
+   "Chagey": {
+      "Score": 78.17427,
+      "lat": 47.620613,
+      "lon": 6.734985
+   },
+   "Le Compas": {
+      "Score": 85.47718,
+      "lat": 46.003662,
+      "lon": 2.4521666
+   },
+   "Alliu00e8res": {
+      "Score": 85.80913,
+      "lat": 43.03874,
+      "lon": 1.363812
+   },
+   "Gilles": {
+      "Score": 2.987552,
+      "lat": 48.909554,
+      "lon": 1.5185716
+   },
+   "Montigny-Lengrain": {
+      "Score": 53.195023,
+      "lat": 49.37264,
+      "lon": 3.0990064
+   },
+   "Lizine": {
+      "Score": 79.75104,
+      "lat": 47.055115,
+      "lon": 5.9930754
+   },
+   "Alembon": {
+      "Score": 24.730291,
+      "lat": 50.780674,
+      "lon": 1.8718015
+   },
+   "Pleudihen-sur-Rance": {
+      "Score": 50.788383,
+      "lat": 48.50977,
+      "lon": -1.94156
+   },
+   "Thevet-Saint-Julien": {
+      "Score": 68.21577,
+      "lat": 46.634186,
+      "lon": 2.070096
+   },
+   "La Chapelle-Rainsouin": {
+      "Score": 14.522821,
+      "lat": 48.09718,
+      "lon": -0.5271937
+   },
+   "Saint-Valery-en-Caux": {
+      "Score": 71.78423,
+      "lat": 49.85954,
+      "lon": 0.70688534
+   },
+   "Notre-Dame-du-Pu00e9": {
+      "Score": 11.037344,
+      "lat": 47.72528,
+      "lon": -0.33593962
+   },
+   "Cruas": {
+      "Score": 14.771784,
+      "lat": 44.6565,
+      "lon": 4.7560635
+   },
+   "La Neuville-Garnier": {
+      "Score": 7.717842,
+      "lat": 49.332066,
+      "lon": 2.0448666
+   },
+   "Salignac-de-Mirambeau": {
+      "Score": 58.838173,
+      "lat": 45.35092,
+      "lon": -0.48129386
+   },
+   "Meyssiez": {
+      "Score": 21.161825,
+      "lat": 45.462452,
+      "lon": 5.0618
+   },
+   "Sainte-Colombe": {
+      "Score": 27.219917,
+      "lat": 49.41547,
+      "lon": -1.5113118
+   },
+   "Carlat": {
+      "Score": 83.90041,
+      "lat": 44.883354,
+      "lon": 2.5718777
+   },
+   "Gungwiller": {
+      "Score": 63.983402,
+      "lat": 48.877914,
+      "lon": 7.152373
+   },
+   "Conchil-le-Temple": {
+      "Score": 47.883816,
+      "lat": 50.367725,
+      "lon": 1.6750499
+   },
+   "Vivier-au-Court": {
+      "Score": 87.551865,
+      "lat": 49.731956,
+      "lon": 4.823432
+   },
+   "Saint-Pons-de-Thomiu00e8res": {
+      "Score": 92.78008,
+      "lat": 43.478683,
+      "lon": 2.7485652
+   },
+   "Chu00e2teaudun": {
+      "Score": 95.18672,
+      "lat": 48.076702,
+      "lon": 1.3262104
+   },
+   "La Haute-Maison": {
+      "Score": 0.33195022,
+      "lat": 48.88422,
+      "lon": 3.0053632
+   },
+   "Cru00e9ances": {
+      "Score": 49.79253,
+      "lat": 49.200417,
+      "lon": -1.5627137
+   },
+   "Bellaffaire": {
+      "Score": 84.81328,
+      "lat": 44.404205,
+      "lon": 6.1944256
+   },
+   "Glaire": {
+      "Score": 76.016594,
+      "lat": 49.71686,
+      "lon": 4.9057097
+   },
+   "Val de Louyre et Caudeau": {
+      "Score": 39.253113,
+      "lat": 44.969368,
+      "lon": 0.79826885
+   },
+   "Framerville-Rainecourt": {
+      "Score": 24.979254,
+      "lat": 49.863243,
+      "lon": 2.720578
+   },
+   "Lavans-Quingey": {
+      "Score": 42.987553,
+      "lat": 47.086758,
+      "lon": 5.8963
+   },
+   "Marville-Moutiers-Bru00fblu00e9": {
+      "Score": 35.26971,
+      "lat": 48.67484,
+      "lon": 1.3790056
+   },
+   "Chavanoz": {
+      "Score": 39.170124,
+      "lat": 45.769146,
+      "lon": 5.172088
+   },
+   "Manas-Bastanous": {
+      "Score": 65.89211,
+      "lat": 43.36725,
+      "lon": 0.36870107
+   },
+   "Croixrault": {
+      "Score": 36.514523,
+      "lat": 49.79438,
+      "lon": 1.9859548
+   },
+   "Briaucourt": {
+      "Score": 48.298756,
+      "lat": 48.207897,
+      "lon": 5.195038
+   },
+   "Denazu00e9": {
+      "Score": 5.4771786,
+      "lat": 47.88122,
+      "lon": -0.8831589
+   },
+   "Montmaur": {
+      "Score": 25.477179,
+      "lat": 43.400497,
+      "lon": 1.8444269
+   },
+   "Castetner": {
+      "Score": 23.402489,
+      "lat": 43.439804,
+      "lon": -0.7299991
+   },
+   "Chaumont-Porcien": {
+      "Score": 75.10374,
+      "lat": 49.64861,
+      "lon": 4.23837
+   },
+   "Ambert": {
+      "Score": 92.6971,
+      "lat": 45.555687,
+      "lon": 3.756878
+   },
+   "Luby-Betmont": {
+      "Score": 62.489628,
+      "lat": 43.29548,
+      "lon": 0.2947694
+   },
+   "Allemond": {
+      "Score": 13.775933,
+      "lat": 45.170692,
+      "lon": 6.017802
+   },
+   "Beynost": {
+      "Score": 28.049793,
+      "lat": 45.8395,
+      "lon": 4.997419
+   },
+   "Ornon": {
+      "Score": 86.05809,
+      "lat": 45.04068,
+      "lon": 5.964803
+   },
+   "Agnat": {
+      "Score": 95.26971,
+      "lat": 45.34501,
+      "lon": 3.4502532
+   },
+   "Bougneau": {
+      "Score": 27.385893,
+      "lat": 45.60001,
+      "lon": -0.5063577
+   },
+   "Saint-Rome-de-Tarn": {
+      "Score": 92.033195,
+      "lat": 44.032402,
+      "lon": 2.890508
+   },
+   "Courcelette": {
+      "Score": 49.460583,
+      "lat": 50.059315,
+      "lon": 2.7430103
+   },
+   "Fontanges": {
+      "Score": 97.17842,
+      "lat": 45.108932,
+      "lon": 2.5179029
+   },
+   "u00c9vaux-les-Bains": {
+      "Score": 79.25311,
+      "lat": 46.16886,
+      "lon": 2.4988627
+   },
+   "La Dominelais": {
+      "Score": 24.232365,
+      "lat": 47.763462,
+      "lon": -1.6735104
+   },
+   "Hagetaubin": {
+      "Score": 58.091286,
+      "lat": 43.510593,
+      "lon": -0.6125546
+   },
+   "Bourg-de-Sirod": {
+      "Score": 82.73859,
+      "lat": 46.730183,
+      "lon": 5.955362
+   },
+   "Soumaintrain": {
+      "Score": 10.207469,
+      "lat": 48.01764,
+      "lon": 3.8405442
+   },
+   "Maiziu00e8res": {
+      "Score": 64.89626,
+      "lat": 47.495575,
+      "lon": 6.008935
+   },
+   "Nantillois": {
+      "Score": 73.19502,
+      "lat": 49.29993,
+      "lon": 5.131341
+   },
+   "Neufchelles": {
+      "Score": 2.074689,
+      "lat": 49.115883,
+      "lon": 3.0522969
+   },
+   "Saint-Lu00e9onard-des-Parcs": {
+      "Score": 7.1369295,
+      "lat": 48.647186,
+      "lon": 0.27828312
+   },
+   "Saint-Siffret": {
+      "Score": 7.219917,
+      "lat": 44.015347,
+      "lon": 4.468521
+   },
+   "Montalet-le-Bois": {
+      "Score": 0.4979253,
+      "lat": 49.048363,
+      "lon": 1.8297813
+   },
+   "La Bigottiu00e8re": {
+      "Score": 23.319502,
+      "lat": 48.22254,
+      "lon": -0.7955846
+   },
+   "Collias": {
+      "Score": 31.369295,
+      "lat": 43.94922,
+      "lon": 4.4719143
+   },
+   "Bresse-sur-Grosne": {
+      "Score": 66.63901,
+      "lat": 46.595417,
+      "lon": 4.728259
+   },
+   "Hudiviller": {
+      "Score": 3.900415,
+      "lat": 48.600597,
+      "lon": 6.3910913
+   },
+   "Pru00e9mesques": {
+      "Score": 30.207468,
+      "lat": 50.66051,
+      "lon": 2.948641
+   },
+   "Saint-Martin-l'Aiguillon": {
+      "Score": 59.419086,
+      "lat": 48.602524,
+      "lon": -0.1798644
+   },
+   "Quet-en-Beaumont": {
+      "Score": 89.9585,
+      "lat": 44.83748,
+      "lon": 5.878958
+   },
+   "Gru00e9villers": {
+      "Score": 40.248962,
+      "lat": 50.102028,
+      "lon": 2.7981763
+   },
+   "Varogne": {
+      "Score": 76.18257,
+      "lat": 47.718884,
+      "lon": 6.207673
+   },
+   "Ambeyrac": {
+      "Score": 94.60581,
+      "lat": 44.49405,
+      "lon": 1.9356383
+   },
+   "La Sauvetat-du-Dropt": {
+      "Score": 44.06639,
+      "lat": 44.649555,
+      "lon": 0.33167872
+   },
+   "Croissy-Beaubourg": {
+      "Score": 2.406639,
+      "lat": 48.816566,
+      "lon": 2.6557953
+   },
+   "Thil": {
+      "Score": 16.846474,
+      "lat": 43.710007,
+      "lon": 1.1527498
+   },
+   "La Croixille": {
+      "Score": 26.473028,
+      "lat": 48.19724,
+      "lon": -1.0415304
+   },
+   "Housseras": {
+      "Score": 35.767635,
+      "lat": 48.308376,
+      "lon": 6.7359147
+   },
+   "Saint-Christophe-en-Champagne": {
+      "Score": 23.568464,
+      "lat": 47.964077,
+      "lon": -0.13706277
+   },
+   "Port": {
+      "Score": 71.28631,
+      "lat": 46.156002,
+      "lon": 5.5761776
+   },
+   "Saint-Bauzille-de-Putois": {
+      "Score": 44.481327,
+      "lat": 43.90046,
+      "lon": 3.7594266
+   },
+   "Aubignu00e9-sur-Layon": {
+      "Score": 17.510374,
+      "lat": 47.21283,
+      "lon": -0.47289252
+   },
+   "Ingru00e9": {
+      "Score": 50.373444,
+      "lat": 47.916836,
+      "lon": 1.8228818
+   },
+   "Poiseul-la-Ville-et-Laperriu00e8re": {
+      "Score": 67.71784,
+      "lat": 47.5696,
+      "lon": 4.664164
+   },
+   "Fleurat": {
+      "Score": 90.37344,
+      "lat": 46.232452,
+      "lon": 1.683152
+   },
+   "Plu00e9dran": {
+      "Score": 62.6556,
+      "lat": 48.443184,
+      "lon": -2.745118
+   },
+   "Lieusaint": {
+      "Score": 85.89211,
+      "lat": 48.62591,
+      "lon": 2.5500011
+   },
+   "Montfort-sur-Boulzane": {
+      "Score": 99.83402,
+      "lat": 42.73024,
+      "lon": 2.3094482
+   },
+   "Uchacq-et-Parentis": {
+      "Score": 11.6182575,
+      "lat": 43.946087,
+      "lon": -0.5476864
+   },
+   "Les Chavannes-en-Maurienne": {
+      "Score": 62.821575,
+      "lat": 45.389656,
+      "lon": 6.287548
+   },
+   "Saint-Salvadour": {
+      "Score": 91.86722,
+      "lat": 45.3912,
+      "lon": 1.766277
+   },
+   "Saint-Genis-Pouilly": {
+      "Score": 88.63071,
+      "lat": 46.25433,
+      "lon": 6.0363655
+   },
+   "Nontron": {
+      "Score": 86.141075,
+      "lat": 45.529713,
+      "lon": 0.6843587
+   },
+   "Panjas": {
+      "Score": 63.153526,
+      "lat": 43.8276,
+      "lon": -0.07586507
+   },
+   "Labrit": {
+      "Score": 56.514523,
+      "lat": 44.12613,
+      "lon": -0.56410265
+   },
+   "Fossu00e9": {
+      "Score": 79.17013,
+      "lat": 49.449673,
+      "lon": 5.005333
+   },
+   "Lignereuil": {
+      "Score": 29.46058,
+      "lat": 50.29126,
+      "lon": 2.4712896
+   },
+   "Bu00e9nesse-lu00e8s-Dax": {
+      "Score": 20.414938,
+      "lat": 43.64379,
+      "lon": -1.0382818
+   },
+   "Jeu-Maloches": {
+      "Score": 61.65975,
+      "lat": 47.047516,
+      "lon": 1.442205
+   },
+   "Villabon": {
+      "Score": 15.60166,
+      "lat": 47.102264,
+      "lon": 2.6783776
+   },
+   "Saint-Marcel-lu00e8s-Annonay": {
+      "Score": 59.170124,
+      "lat": 45.28865,
+      "lon": 4.629383
+   },
+   "Ville-Langy": {
+      "Score": 72.448135,
+      "lat": 46.93774,
+      "lon": 3.5022135
+   },
+   "Saint-Yrieix-sur-Charente": {
+      "Score": 66.05809,
+      "lat": 45.681713,
+      "lon": 0.12834594
+   },
+   "Le Broc": {
+      "Score": 25.560165,
+      "lat": 43.815147,
+      "lon": 7.1592245
+   },
+   "Mers-sur-Indre": {
+      "Score": 52.19917,
+      "lat": 46.669743,
+      "lon": 1.873327
+   },
+   "Chu00e2tenay": {
+      "Score": 17.427385,
+      "lat": 46.02586,
+      "lon": 5.2045655
+   },
+   "Gaillac": {
+      "Score": 73.609955,
+      "lat": 43.91664,
+      "lon": 1.8862354
+   },
+   "Autrac": {
+      "Score": 90.78838,
+      "lat": 45.336777,
+      "lon": 3.1296337
+   },
+   "Romenay": {
+      "Score": 59.00415,
+      "lat": 46.514416,
+      "lon": 5.081753
+   },
+   "La Londe": {
+      "Score": 32.780083,
+      "lat": 49.323635,
+      "lon": 0.91942894
+   },
+   "Faymoreau": {
+      "Score": 81.493774,
+      "lat": 46.543133,
+      "lon": -0.6241678
+   },
+   "Arles": {
+      "Score": 78.83817,
+      "lat": 43.54697,
+      "lon": 4.6617484
+   },
+   "Anglu00e8s": {
+      "Score": 98.672195,
+      "lat": 43.550762,
+      "lon": 2.5825047
+   },
+   "Ger": {
+      "Score": 31.701244,
+      "lat": 43.253937,
+      "lon": -0.05962435
+   },
+   "Crisenoy": {
+      "Score": 4.315353,
+      "lat": 48.603405,
+      "lon": 2.7443333
+   },
+   "Auriu00e9bat": {
+      "Score": 52.780083,
+      "lat": 43.499172,
+      "lon": 0.08757973
+   },
+   "Glu00e8re": {
+      "Score": 86.63901,
+      "lat": 47.348293,
+      "lon": 6.9838552
+   },
+   "Souleuvre en Bocage": {
+      "Score": 34.771786,
+      "lat": 48.95511,
+      "lon": -0.85160047
+   },
+   "Altkirch": {
+      "Score": 93.94191,
+      "lat": 47.621048,
+      "lon": 7.24459
+   },
+   "Condat-sur-Ganaveix": {
+      "Score": 75.93361,
+      "lat": 45.48264,
+      "lon": 1.598901
+   },
+   "Tautavel": {
+      "Score": 85.975105,
+      "lat": 42.813774,
+      "lon": 2.71863
+   },
+   "Bosroumois": {
+      "Score": 25.892117,
+      "lat": 49.289227,
+      "lon": 0.9188492
+   },
+   "u00c9gat": {
+      "Score": 84.564316,
+      "lat": 42.502296,
+      "lon": 2.0177078
+   },
+   "Girancourt": {
+      "Score": 35.601658,
+      "lat": 48.14722,
+      "lon": 6.326196
+   },
+   "Neuvireuil": {
+      "Score": 54.60581,
+      "lat": 50.35305,
+      "lon": 2.9145308
+   },
+   "Palairac": {
+      "Score": 98.58921,
+      "lat": 42.957253,
+      "lon": 2.6583233
+   },
+   "Saint-Pardoux-Isaac": {
+      "Score": 74.854774,
+      "lat": 44.612354,
+      "lon": 0.37798882
+   },
+   "Blanzac": {
+      "Score": 61.244812,
+      "lat": 46.127975,
+      "lon": 1.1081462
+   },
+   "Senneville-sur-Fu00e9camp": {
+      "Score": 13.609959,
+      "lat": 49.772034,
+      "lon": 0.41469538
+   },
+   "Malabat": {
+      "Score": 36.763485,
+      "lat": 43.431843,
+      "lon": 0.19351445
+   },
+   "Tajan": {
+      "Score": 54.771786,
+      "lat": 43.182175,
+      "lon": 0.45251417
+   },
+   "Berrias-et-Casteljau": {
+      "Score": 74.35685,
+      "lat": 44.38282,
+      "lon": 4.20764
+   },
+   "Athies-sous-Laon": {
+      "Score": 52.53112,
+      "lat": 49.575924,
+      "lon": 3.6899974
+   },
+   "Chassy": {
+      "Score": 68.13278,
+      "lat": 47.043186,
+      "lon": 2.8329926
+   },
+   "Saisseval": {
+      "Score": 50.705395,
+      "lat": 49.901165,
+      "lon": 2.1187036
+   },
+   "Livarot-Pays-d'Auge": {
+      "Score": 50.041492,
+      "lat": 49.003426,
+      "lon": 0.22703172
+   },
+   "Gueutteville-les-Gru00e8s": {
+      "Score": 16.763485,
+      "lat": 49.83898,
+      "lon": 0.76413304
+   },
+   "Crazannes": {
+      "Score": 22.821577,
+      "lat": 45.85055,
+      "lon": -0.7054737
+   },
+   "Courgoul": {
+      "Score": 95.020744,
+      "lat": 45.511765,
+      "lon": 3.0465488
+   },
+   "Morancu00e9": {
+      "Score": 10.539419,
+      "lat": 45.894382,
+      "lon": 4.6999774
+   },
+   "Uru00e7ay": {
+      "Score": 73.52697,
+      "lat": 46.633907,
+      "lon": 2.6143713
+   },
+   "Guu00e9blange-lu00e8s-Dieuze": {
+      "Score": 41.65975,
+      "lat": 48.77797,
+      "lon": 6.702358
+   },
+   "Oslon": {
+      "Score": 42.73859,
+      "lat": 46.777508,
+      "lon": 4.942453
+   },
+   "Neaux": {
+      "Score": 59.91701,
+      "lat": 45.958366,
+      "lon": 4.167441
+   },
+   "Gondeville": {
+      "Score": 57.759335,
+      "lat": 45.66796,
+      "lon": -0.15470606
+   },
+   "Tru00e9flu00e9vu00e9nez": {
+      "Score": 30.041494,
+      "lat": 48.415554,
+      "lon": -4.1757364
+   },
+   "Jaulnes": {
+      "Score": 3.2365146,
+      "lat": 48.414238,
+      "lon": 3.276181
+   },
+   "La Villette": {
+      "Score": 42.40664,
+      "lat": 48.909225,
+      "lon": -0.54311395
+   },
+   "Roques": {
+      "Score": 52.946056,
+      "lat": 43.8419,
+      "lon": 0.29755494
+   },
+   "Le Boulay": {
+      "Score": 19.3361,
+      "lat": 47.59512,
+      "lon": 0.8440526
+   },
+   "Balaiseaux": {
+      "Score": 38.92116,
+      "lat": 46.967712,
+      "lon": 5.4616218
+   },
+   "Simplu00e9": {
+      "Score": 9.709543,
+      "lat": 47.88279,
+      "lon": -0.85463184
+   },
+   "Chatuzange-le-Goubet": {
+      "Score": 27.551867,
+      "lat": 45.010914,
+      "lon": 5.0965824
+   },
+   "Haute-Goulaine": {
+      "Score": 30.456432,
+      "lat": 47.19646,
+      "lon": -1.4106599
+   },
+   "Bugeat": {
+      "Score": 94.854774,
+      "lat": 45.58989,
+      "lon": 1.9302669
+   },
+   "Les Mu00e9es": {
+      "Score": 47.55187,
+      "lat": 48.313435,
+      "lon": 0.23382148
+   },
+   "Durfort": {
+      "Score": 43.070538,
+      "lat": 43.19525,
+      "lon": 1.4636972
+   },
+   "Maidiu00e8res": {
+      "Score": 77.676346,
+      "lat": 48.89639,
+      "lon": 6.0355935
+   },
+   "Goviller": {
+      "Score": 40.746887,
+      "lat": 48.504906,
+      "lon": 6.0139775
+   },
+   "Champagne-et-Fontaine": {
+      "Score": 77.84232,
+      "lat": 45.429317,
+      "lon": 0.3358712
+   },
+   "Gru00e8zes": {
+      "Score": 99.25311,
+      "lat": 44.91077,
+      "lon": 3.4684794
+   },
+   "Houdilcourt": {
+      "Score": 55.684647,
+      "lat": 49.4224,
+      "lon": 4.1252856
+   },
+   "Chabrignac": {
+      "Score": 70.70539,
+      "lat": 45.31377,
+      "lon": 1.342391
+   },
+   "Condom-d'Aubrac": {
+      "Score": 97.84232,
+      "lat": 44.6058,
+      "lon": 2.8814847
+   },
+   "Les Trois Lacs": {
+      "Score": 21.3278,
+      "lat": 49.216904,
+      "lon": 1.3331329
+   },
+   "Bergouey": {
+      "Score": 45.643154,
+      "lat": 43.668194,
+      "lon": -0.72280836
+   },
+   "Montoussu00e9": {
+      "Score": 75.51867,
+      "lat": 43.062943,
+      "lon": 0.41322225
+   },
+   "Rognaix": {
+      "Score": 31.452282,
+      "lat": 45.57027,
+      "lon": 6.423882
+   },
+   "Renu00e9": {
+      "Score": 46.970955,
+      "lat": 48.27697,
+      "lon": 0.21702635
+   },
+   "Neuvy": {
+      "Score": 11.452282,
+      "lat": 48.742996,
+      "lon": 3.5102854
+   },
+   "Lurbe-Saint-Christau": {
+      "Score": 71.70125,
+      "lat": 43.107555,
+      "lon": -0.60285515
+   },
+   "La Rouquette": {
+      "Score": 58.174274,
+      "lat": 44.30997,
+      "lon": 1.9745075
+   },
+   "Morley": {
+      "Score": 80.24896,
+      "lat": 48.57501,
+      "lon": 5.225375
+   },
+   "Lambruisse": {
+      "Score": 97.75934,
+      "lat": 44.044502,
+      "lon": 6.4453635
+   },
+   "Latrecey-Ormoy-sur-Aube": {
+      "Score": 82.489624,
+      "lat": 47.986214,
+      "lon": 4.842822
+   },
+   "La Cerlangue": {
+      "Score": 21.244814,
+      "lat": 49.487564,
+      "lon": 0.4158335
+   },
+   "Lugny-lu00e8s-Charolles": {
+      "Score": 40,
+      "lat": 46.411118,
+      "lon": 4.204234
+   },
+   "Bonneval": {
+      "Score": 99.17013,
+      "lat": 45.51811,
+      "lon": 6.427773
+   },
+   "Peyreleau": {
+      "Score": 99.3361,
+      "lat": 44.176132,
+      "lon": 3.2047024
+   },
+   "Marcolu00e8s": {
+      "Score": 84.39834,
+      "lat": 44.782444,
+      "lon": 2.357145
+   },
+   "Jarzu00e9 Villages": {
+      "Score": 37.427387,
+      "lat": 47.554226,
+      "lon": -0.25611958
+   },
+   "Lavardin": {
+      "Score": 8.215768,
+      "lat": 48.084156,
+      "lon": 0.06294546
+   },
+   "Prissac": {
+      "Score": 78.921165,
+      "lat": 46.524586,
+      "lon": 1.29875
+   },
+   "Luisetaines": {
+      "Score": 37.59336,
+      "lat": 48.46087,
+      "lon": 3.1861002
+   },
+   "Crest": {
+      "Score": 88.547714,
+      "lat": 44.7332,
+      "lon": 5.0218997
+   },
+   "Villefargeau": {
+      "Score": 7.966805,
+      "lat": 47.78831,
+      "lon": 3.4868078
+   },
+   "Bu00e9court": {
+      "Score": 8.547718,
+      "lat": 50.63975,
+      "lon": 1.9024521
+   },
+   "Bellignat": {
+      "Score": 88.87967,
+      "lat": 46.238068,
+      "lon": 5.6362085
+   },
+   "Saint-Thonan": {
+      "Score": 29.709543,
+      "lat": 48.477104,
+      "lon": -4.322714
+   },
+   "Ficheux": {
+      "Score": 29.875519,
+      "lat": 50.225716,
+      "lon": 2.7460253
+   },
+   "Dung": {
+      "Score": 30.788382,
+      "lat": 47.506012,
+      "lon": 6.7454834
+   },
+   "Gu00e9nu00e9rest": {
+      "Score": 66.970955,
+      "lat": 43.025383,
+      "lon": 0.5167153
+   },
+   "Saint-Pandelon": {
+      "Score": 6.141079,
+      "lat": 43.668633,
+      "lon": -1.0395641
+   },
+   "Chu00e2teau-des-Pru00e9s": {
+      "Score": 87.63486,
+      "lat": 46.50754,
+      "lon": 5.9134965
+   },
+   "Saint-Pantalu00e9on-les-Vignes": {
+      "Score": 46.39004,
+      "lat": 44.395832,
+      "lon": 5.042076
+   },
+   "Devay": {
+      "Score": 25.643154,
+      "lat": 46.805477,
+      "lon": 3.5418944
+   },
+   "Bruley": {
+      "Score": 11.950208,
+      "lat": 48.713078,
+      "lon": 5.857572
+   },
+   "Cu00e9rans-Foulletourte": {
+      "Score": 32.116184,
+      "lat": 47.833916,
+      "lon": 0.06951359
+   },
+   "Saint-Fru00e9joux": {
+      "Score": 81.9917,
+      "lat": 45.556084,
+      "lon": 2.378183
+   },
+   "Tru00e9gastel": {
+      "Score": 91.28631,
+      "lat": 48.817673,
+      "lon": -3.5077364
+   },
+   "Diancey": {
+      "Score": 56.18257,
+      "lat": 47.17465,
+      "lon": 4.3672605
+   },
+   "Colonzelle": {
+      "Score": 21.410788,
+      "lat": 44.384895,
+      "lon": 4.8999224
+   },
+   "Saint-Sulpice-de-Royan": {
+      "Score": 28.215767,
+      "lat": 45.67337,
+      "lon": -1.0062596
+   },
+   "Montjay": {
+      "Score": 69.12863,
+      "lat": 46.80561,
+      "lon": 5.299666
+   },
+   "Saint-Georges-des-Groseillers": {
+      "Score": 75.60166,
+      "lat": 48.767555,
+      "lon": -0.56862617
+   },
+   "Bernay-Saint-Martin": {
+      "Score": 35.518673,
+      "lat": 46.06663,
+      "lon": -0.62542886
+   },
+   "Ibarrolle": {
+      "Score": 73.36099,
+      "lat": 43.192833,
+      "lon": -1.0988959
+   },
+   "La Gonterie-Boulouneix": {
+      "Score": 76.09959,
+      "lat": 45.38164,
+      "lon": 0.58452207
+   },
+   "Chassal": {
+      "Score": 39.751038,
+      "lat": 46.36061,
+      "lon": 5.7854285
+   },
+   "Chu00e2tel-de-Neuvre": {
+      "Score": 50.622406,
+      "lat": 46.415787,
+      "lon": 3.298443
+   },
+   "Pont-sur-Seine": {
+      "Score": 13.858921,
+      "lat": 48.50852,
+      "lon": 3.5970967
+   },
+   "Paulhac": {
+      "Score": 53.278008,
+      "lat": 45.295002,
+      "lon": 3.340175
+   },
+   "Crosses": {
+      "Score": 34.024895,
+      "lat": 47.008167,
+      "lon": 2.5682237
+   },
+   "Tru00e9horenteuc": {
+      "Score": 96.34855,
+      "lat": 48.00412,
+      "lon": -2.29527
+   },
+   "Saint-Julien-Molin-Molette": {
+      "Score": 84.6473,
+      "lat": 45.32169,
+      "lon": 4.6183677
+   },
+   "Fouleix": {
+      "Score": 35.684647,
+      "lat": 44.975754,
+      "lon": 0.67335355
+   },
+   "Soulom": {
+      "Score": 95.93361,
+      "lat": 42.949635,
+      "lon": -0.072229534
+   },
+   "Censeau": {
+      "Score": 64.73029,
+      "lat": 46.81645,
+      "lon": 6.0777884
+   },
+   "Bettencourt-Riviu00e8re": {
+      "Score": 42.489628,
+      "lat": 49.992897,
+      "lon": 1.9761779
+   },
+   "Vassieux-en-Vercors": {
+      "Score": 88.13278,
+      "lat": 44.8805,
+      "lon": 5.3740244
+   },
+   "Chuffilly-Roche": {
+      "Score": 72.614105,
+      "lat": 49.45102,
+      "lon": 4.621962
+   },
+   "Gouloux": {
+      "Score": 92.614105,
+      "lat": 47.23063,
+      "lon": 4.0834603
+   },
+   "Brueil-en-Vexin": {
+      "Score": 0.9128631,
+      "lat": 49.025936,
+      "lon": 1.8125664
+   },
+   "Berville": {
+      "Score": 16.348547,
+      "lat": 49.71238,
+      "lon": 0.8370958
+   },
+   "Saint-Blaise": {
+      "Score": 30.871368,
+      "lat": 46.06636,
+      "lon": 6.090219
+   },
+   "La Merlatiu00e8re": {
+      "Score": 37.67635,
+      "lat": 46.75644,
+      "lon": -1.2989889
+   },
+   "Boussay": {
+      "Score": 54.273857,
+      "lat": 46.848087,
+      "lon": 0.8922962
+   },
+   "Fontiu00e8s-d'Aude": {
+      "Score": 45.14523,
+      "lat": 43.187485,
+      "lon": 2.4568698
+   },
+   "Su00e9glien": {
+      "Score": 84.23237,
+      "lat": 48.102436,
+      "lon": -3.1517847
+   },
+   "Lu00e9ojac": {
+      "Score": 4.813278,
+      "lat": 44.00324,
+      "lon": 1.4504626
+   },
+   "La Vu00f4ge-les-Bains": {
+      "Score": 78.34025,
+      "lat": 48.01502,
+      "lon": 6.252992
+   },
+   "Armendarits": {
+      "Score": 62.240665,
+      "lat": 43.299202,
+      "lon": -1.1615249
+   },
+   "Ressons-le-Long": {
+      "Score": 43.236515,
+      "lat": 49.388317,
+      "lon": 3.1405208
+   },
+   "Loupia": {
+      "Score": 73.858925,
+      "lat": 43.061535,
+      "lon": 2.1248472
+   },
+   "Boyer": {
+      "Score": 68.04979,
+      "lat": 46.600048,
+      "lon": 4.9033046
+   },
+   "Collongues": {
+      "Score": 60.414936,
+      "lat": 43.28962,
+      "lon": 0.16807437
+   },
+   "Aixe-sur-Vienne": {
+      "Score": 79.66805,
+      "lat": 45.7982,
+      "lon": 1.1317153
+   },
+   "Chaintrix-Bierges": {
+      "Score": 1.9917012,
+      "lat": 48.895424,
+      "lon": 4.1033897
+   },
+   "Taussac-la-Billiu00e8re": {
+      "Score": 76.34855,
+      "lat": 43.633232,
+      "lon": 3.076393
+   },
+   "Tabanac": {
+      "Score": 8.879668,
+      "lat": 44.723846,
+      "lon": -0.4111611
+   },
+   "Criquebeuf-en-Caux": {
+      "Score": 48.630707,
+      "lat": 49.739166,
+      "lon": 0.33389297
+   },
+   "u00c9preville-pru00e8s-le-Neubourg": {
+      "Score": 20.995852,
+      "lat": 49.12955,
+      "lon": 0.8762432
+   },
+   "Saint-Paulien": {
+      "Score": 84.73029,
+      "lat": 45.134922,
+      "lon": 3.8208742
+   },
+   "Saint-Honoru00e9-les-Bains": {
+      "Score": 82.323654,
+      "lat": 46.89959,
+      "lon": 3.853537
+   },
+   "Uvernet-Fours": {
+      "Score": 100,
+      "lat": 44.31933,
+      "lon": 6.6697755
+   },
+   "Janzu00e9": {
+      "Score": 49.709545,
+      "lat": 47.942867,
+      "lon": -1.5008489
+   },
+   "Chamigny": {
+      "Score": 14.605809,
+      "lat": 48.985203,
+      "lon": 3.1417043
+   },
+   "La Roche-Noire": {
+      "Score": 10.456431,
+      "lat": 45.71366,
+      "lon": 3.2235208
+   },
+   "Gurgy": {
+      "Score": 38.008297,
+      "lat": 47.878193,
+      "lon": 3.5597124
+   },
+   "Nordausques": {
+      "Score": 13.692946,
+      "lat": 50.813824,
+      "lon": 2.0849695
+   },
+   "Longueau": {
+      "Score": 94.439835,
+      "lat": 49.872375,
+      "lon": 2.357435
+   },
+   "Saint-Yaguen": {
+      "Score": 32.53112,
+      "lat": 43.902237,
+      "lon": -0.74200624
+   },
+   "Tournoisis": {
+      "Score": 2.7385893,
+      "lat": 48.0046,
+      "lon": 1.6246969
+   },
+   "Sissy": {
+      "Score": 60.248962,
+      "lat": 49.81088,
+      "lon": 3.4217255
+   },
+   "Nuars": {
+      "Score": 89.54357,
+      "lat": 47.388012,
+      "lon": 3.7102506
+   },
+   "Eyburie": {
+      "Score": 85.06224,
+      "lat": 45.469135,
+      "lon": 1.6449192
+   },
+   "Ardizas": {
+      "Score": 17.178423,
+      "lat": 43.72352,
+      "lon": 0.9988254
+   },
+   "Allier": {
+      "Score": 9.875519,
+      "lat": 43.179977,
+      "lon": 0.12604654
+   },
+   "Saint-Andru00e9-la-Cu00f4te": {
+      "Score": 19.834024,
+      "lat": 45.632404,
+      "lon": 4.5968194
+   },
+   "Beaufay": {
+      "Score": 20.580914,
+      "lat": 48.142384,
+      "lon": 0.3426985
+   },
+   "Vironvay": {
+      "Score": 4.8962655,
+      "lat": 49.206192,
+      "lon": 1.2189825
+   },
+   "Chevillon-sur-Huillard": {
+      "Score": 9.543569,
+      "lat": 47.967075,
+      "lon": 2.6226459
+   },
+   "Saint-Priest-sous-Aixe": {
+      "Score": 39.91701,
+      "lat": 45.82037,
+      "lon": 1.0838164
+   },
+   "Marines": {
+      "Score": 41.908714,
+      "lat": 49.147575,
+      "lon": 1.983637
+   },
+   "Saint-Christophe-de-Valains": {
+      "Score": 17.842323,
+      "lat": 48.341366,
+      "lon": -1.4514034
+   },
+   "Vandeuil": {
+      "Score": 5.394191,
+      "lat": 49.28181,
+      "lon": 3.7939432
+   },
+   "Meurchin": {
+      "Score": 63.070538,
+      "lat": 50.494015,
+      "lon": 2.8947906
+   },
+   "Lagupie": {
+      "Score": 11.784232,
+      "lat": 44.56826,
+      "lon": 0.11117667
+   },
+   "Clamanges": {
+      "Score": 4.9792533,
+      "lat": 48.83005,
+      "lon": 4.083155
+   },
+   "Cierp-Gaud": {
+      "Score": 96.51453,
+      "lat": 42.91214,
+      "lon": 0.63473713
+   },
+   "Franken": {
+      "Score": 29.294605,
+      "lat": 47.595142,
+      "lon": 7.353615
+   },
+   "Saint-Aulais-la-Chapelle": {
+      "Score": 48.87967,
+      "lat": 45.44785,
+      "lon": -0.053210672
+   },
+   "Essigny-le-Petit": {
+      "Score": 39.419086,
+      "lat": 49.89629,
+      "lon": 3.3670852
+   },
+   "Capelle-lu00e8s-Hesdin": {
+      "Score": 15.103734,
+      "lat": 50.347546,
+      "lon": 1.9910728
+   },
+   "Noordpeene": {
+      "Score": 57.178425,
+      "lat": 50.794556,
+      "lon": 2.3667831
+   },
+   "Pouligny-Saint-Pierre": {
+      "Score": 41.07884,
+      "lat": 46.684265,
+      "lon": 1.0465053
+   },
+   "Libourne": {
+      "Score": 93.19502,
+      "lat": 44.912926,
+      "lon": -0.23471081
+   },
+   "Colonne": {
+      "Score": 79.00415,
+      "lat": 46.878853,
+      "lon": 5.571128
+   },
+   "Saint-Branchs": {
+      "Score": 14.854772,
+      "lat": 47.22447,
+      "lon": 0.7583316
+   },
+   "u00c9tel": {
+      "Score": 97.095436,
+      "lat": 47.657093,
+      "lon": -3.1997786
+   },
+   "Saint-Jean-du-Pin": {
+      "Score": 36.680496,
+      "lat": 44.11638,
+      "lon": 4.0331616
+   },
+   "Saint-Paul-de-Vence": {
+      "Score": 0.16597511,
+      "lat": 43.69483,
+      "lon": 7.121049
+   },
+   "La Salette-Fallavaux": {
+      "Score": 99.41909,
+      "lat": 44.843178,
+      "lon": 5.9852037
+   },
+   "Alzen": {
+      "Score": 97.510376,
+      "lat": 42.981823,
+      "lon": 1.4553584
+   },
+   "Balot": {
+      "Score": 80.58091,
+      "lat": 47.82,
+      "lon": 4.44318
+   },
+   "Boinville-le-Gaillard": {
+      "Score": 0.5809129,
+      "lat": 48.496075,
+      "lon": 1.8710698
+   },
+   "Mont-Cauvaire": {
+      "Score": 40.829876,
+      "lat": 49.57059,
+      "lon": 1.1132345
+   },
+   "Wimille": {
+      "Score": 83.48547,
+      "lat": 50.764687,
+      "lon": 1.6420251
+   },
+   "Flaugeac": {
+      "Score": 24.149378,
+      "lat": 44.753895,
+      "lon": 0.44079208
+   },
+   "Maizet": {
+      "Score": 8.962656,
+      "lat": 49.07561,
+      "lon": -0.45539057
+   },
+   "Villardonnel": {
+      "Score": 50.12448,
+      "lat": 43.33391,
+      "lon": 2.3138874
+   },
+   "Faissault": {
+      "Score": 39.66805,
+      "lat": 49.60928,
+      "lon": 4.505748
+   },
+   "Dancevoir": {
+      "Score": 87.05394,
+      "lat": 47.933807,
+      "lon": 4.879414
+   },
+   "Haynecourt": {
+      "Score": 61.07884,
+      "lat": 50.209415,
+      "lon": 3.155373
+   },
+   "Elzange": {
+      "Score": 5.8091288,
+      "lat": 49.359802,
+      "lon": 6.2910724
+   },
+   "Le Bois-Hellain": {
+      "Score": 36.34855,
+      "lat": 49.275887,
+      "lon": 0.39067757
+   },
+   "Ribemont-sur-Ancre": {
+      "Score": 42.074688,
+      "lat": 49.97213,
+      "lon": 2.5582871
+   },
+   "Luxe-Sumberraute": {
+      "Score": 12.282158,
+      "lat": 43.34959,
+      "lon": -1.073371
+   },
+   "Saint-Yrieix-les-Bois": {
+      "Score": 92.36514,
+      "lat": 46.09396,
+      "lon": 1.9575555
+   },
+   "Songy": {
+      "Score": 9.460581,
+      "lat": 48.79276,
+      "lon": 4.4705663
+   },
+   "Villacourt": {
+      "Score": 64.39834,
+      "lat": 48.43887,
+      "lon": 6.3361325
+   },
+   "Moulins-sur-Cu00e9phons": {
+      "Score": 72.53112,
+      "lat": 47.00911,
+      "lon": 1.5609262
+   },
+   "Le Mesnil-Garnier": {
+      "Score": 60.746887,
+      "lat": 48.86559,
+      "lon": -1.3047957
+   },
+   "Berneuil": {
+      "Score": 52.697094,
+      "lat": 50.08877,
+      "lon": 2.173494
+   },
+   "Asniu00e8res-sur-Oise": {
+      "Score": 19.170124,
+      "lat": 49.14077,
+      "lon": 2.37952
+   },
+   "Daglan": {
+      "Score": 64.564316,
+      "lat": 44.748283,
+      "lon": 1.1870017
+   },
+   "Viglain": {
+      "Score": 10.871369,
+      "lat": 47.73212,
+      "lon": 2.290233
+   },
+   "Durcet": {
+      "Score": 44.647305,
+      "lat": 48.7411,
+      "lon": -0.44226825
+   },
+   "Tanis": {
+      "Score": 21.576763,
+      "lat": 48.585175,
+      "lon": -1.443687
+   },
+   "Bidart": {
+      "Score": 80.33195,
+      "lat": 43.4376,
+      "lon": -1.5785859
+   },
+   "La Boissiu00e8re": {
+      "Score": 4.481328,
+      "lat": 48.95111,
+      "lon": 1.36826
+   },
+   "Alu00e7ay-Alu00e7abu00e9hu00e9ty-Sunharette": {
+      "Score": 96.18257,
+      "lat": 43.086746,
+      "lon": -0.9765009
+   },
+   "Marsac": {
+      "Score": 50.20747,
+      "lat": 43.941616,
+      "lon": 0.8297098
+   },
+   "Soulatgu00e9": {
+      "Score": 98.091286,
+      "lat": 42.880135,
+      "lon": 2.503353
+   },
+   "Vouu00e9court": {
+      "Score": 66.80498,
+      "lat": 48.262833,
+      "lon": 5.1587563
+   },
+   "Serres-Morlau00e0s": {
+      "Score": 10.290457,
+      "lat": 43.323883,
+      "lon": -0.25993505
+   },
+   "Maisoncelles-Pelvey": {
+      "Score": 15.435684,
+      "lat": 49.059265,
+      "lon": -0.67215616
+   },
+   "La Harengu00e8re": {
+      "Score": 23.485477,
+      "lat": 49.23167,
+      "lon": 1.0014157
+   },
+   "Sury-en-Vaux": {
+      "Score": 64.48133,
+      "lat": 47.371876,
+      "lon": 2.8031287
+   },
+   "Pouilley-les-Vignes": {
+      "Score": 65.560165,
+      "lat": 47.26059,
+      "lon": 5.9358187
+   },
+   "Vaudoy-en-Brie": {
+      "Score": 1.3278009,
+      "lat": 48.697548,
+      "lon": 3.0822985
+   },
+   "Camplong": {
+      "Score": 91.78423,
+      "lat": 43.688984,
+      "lon": 3.1120276
+   },
+   "Belmesnil": {
+      "Score": 11.701244,
+      "lat": 49.768448,
+      "lon": 1.0499153
+   },
+   "Goux-lu00e8s-Dambelin": {
+      "Score": 48.71369,
+      "lat": 47.3979,
+      "lon": 6.677576
+   },
+   "Roeux": {
+      "Score": 48.962654,
+      "lat": 50.302086,
+      "lon": 2.8994348
+   },
+   "Sargu00e9-lu00e8s-le-Mans": {
+      "Score": 61.908714,
+      "lat": 48.042027,
+      "lon": 0.24792838
+   },
+   "Lougu00e9-sur-Maire": {
+      "Score": 62.73859,
+      "lat": 48.70072,
+      "lon": -0.22174773
+   },
+   "Soulages": {
+      "Score": 91.95021,
+      "lat": 45.089417,
+      "lon": 3.2625248
+   },
+   "Promilhanes": {
+      "Score": 84.06639,
+      "lat": 44.37635,
+      "lon": 1.8295783
+   },
+   "Milly-Lamartine": {
+      "Score": 18.423237,
+      "lat": 46.349174,
+      "lon": 4.695525
+   },
+   "Bettange": {
+      "Score": 27.136929,
+      "lat": 49.23878,
+      "lon": 6.4892335
+   },
+   "Gros-Chastang": {
+      "Score": 93.36099,
+      "lat": 45.214954,
+      "lon": 2.003076
+   },
+   "Thury": {
+      "Score": 78.25726,
+      "lat": 47.02831,
+      "lon": 4.5274
+   },
+   "Lyaud": {
+      "Score": 12.780083,
+      "lat": 46.3337,
+      "lon": 6.5208936
+   },
+   "u00c9perlecques": {
+      "Score": 38.58921,
+      "lat": 50.818455,
+      "lon": 2.1601574
+   },
+   "Urrugne": {
+      "Score": 77.17842,
+      "lat": 43.349407,
+      "lon": -1.6975799
+   },
+   "Saint-Philbert-de-Grand-Lieu": {
+      "Score": 35.93361,
+      "lat": 47.060425,
+      "lon": -1.6568271
+   },
+   "Clary": {
+      "Score": 72.78008,
+      "lat": 50.068592,
+      "lon": 3.396192
+   },
+   "Beaufort": {
+      "Score": 3.153527,
+      "lat": 43.45501,
+      "lon": 1.1062291
+   },
+   "Bouhans-et-Feurg": {
+      "Score": 42.32365,
+      "lat": 47.472942,
+      "lon": 5.5109715
+   },
+   "Savigny-sur-Grosne": {
+      "Score": 81.65975,
+      "lat": 46.581284,
+      "lon": 4.6643653
+   },
+   "Saunay": {
+      "Score": 16.431536,
+      "lat": 47.598312,
+      "lon": 0.95859796
+   },
+   "Cessenon-sur-Orb": {
+      "Score": 54.688797,
+      "lat": 43.454433,
+      "lon": 3.0406635
+   },
+   "Du00e9sertines": {
+      "Score": 90.622406,
+      "lat": 46.357037,
+      "lon": 2.6274858
+   },
+   "Cransac": {
+      "Score": 89.87552,
+      "lat": 44.518745,
+      "lon": 2.2872806
+   },
+   "Bu00e9ligneux": {
+      "Score": 59.66805,
+      "lat": 45.85931,
+      "lon": 5.140352
+   },
+   "Montauban-de-Bretagne": {
+      "Score": 71.12033,
+      "lat": 48.20289,
+      "lon": -2.065493
+   },
+   "Serriu00e8res-de-Briord": {
+      "Score": 24.066391,
+      "lat": 45.813156,
+      "lon": 5.441585
+   },
+   "Issancourt-et-Rumel": {
+      "Score": 56.59751,
+      "lat": 49.756542,
+      "lon": 4.827201
+   },
+   "Chalo-Saint-Mars": {
+      "Score": 10.954357,
+      "lat": 48.41666,
+      "lon": 2.0515747
+   },
+   "Peigney": {
+      "Score": 73.443985,
+      "lat": 47.878445,
+      "lon": 5.376288
+   },
+   "Lapoutroie": {
+      "Score": 73.27801,
+      "lat": 48.16008,
+      "lon": 7.159007
+   },
+   "Gabillou": {
+      "Score": 72.36514,
+      "lat": 45.20579,
+      "lon": 1.0320656
+   },
+   "Saint-Martin-des-Landes": {
+      "Score": 16.016598,
+      "lat": 48.54654,
+      "lon": -0.15696147
+   },
+   "L'Aiguillon-sur-Vie": {
+      "Score": 56.099586,
+      "lat": 46.67077,
+      "lon": -1.8253319
+   },
+   "Becquigny": {
+      "Score": 28.381742,
+      "lat": 50.01616,
+      "lon": 3.4596555
+   },
+   "Mignu00e8res": {
+      "Score": 22.655602,
+      "lat": 48.048225,
+      "lon": 2.6221688
+   },
+   "Breitenbach-Haut-Rhin": {
+      "Score": 82.98755,
+      "lat": 48.010773,
+      "lon": 7.105354
+   },
+   "Warlus": {
+      "Score": 4.06639,
+      "lat": 50.279068,
+      "lon": 2.6642866
+   },
+   "Prades-Salars": {
+      "Score": 76.92946,
+      "lat": 44.249355,
+      "lon": 2.7931683
+   },
+   "Sagy": {
+      "Score": 1.9087137,
+      "lat": 49.052444,
+      "lon": 1.9684324
+   },
+   "Lalanne-Arquu00e9": {
+      "Score": 43.40249,
+      "lat": 43.32636,
+      "lon": 0.64026064
+   },
+   "Saint-Martin-de-Mieux": {
+      "Score": 10.041493,
+      "lat": 48.873966,
+      "lon": -0.24106686
+   },
+   "Souliu00e8res": {
+      "Score": 2.6556017,
+      "lat": 48.90402,
+      "lon": 3.9349513
+   }
+}

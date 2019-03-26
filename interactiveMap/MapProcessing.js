@@ -82,9 +82,9 @@ var overlays = {
 var groupedOverlays = {
 	"Classement selon le type de score":{
 		"Score Total": citiesScoreTotal,
-		"Consomation moyenne Residentiel (MWh)" : citiesScoreConsoMoyenne,
+		"Faiblesse a la transition" : citiesScoreConsoMoyenne,
 		"Potentiel solaire" : citiesSolMean,
-		"Nombre bornes E pour recharge électrique" : citiesScoreNbBorneE,
+		"Potentiel transition electrique" : citiesScoreNbBorneE,
 		"Potentiel patrimoine" : citiesScoreProp_prote,
 		"Potentiel Eolien" : citiesScoreVentMean
 	}
