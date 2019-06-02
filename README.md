@@ -1,8 +1,7 @@
 # Detection of territories with high potential for energy transition
 *Authors : Marin BOUTHEMY, Julien PERRIN, Constance VIVIER, Jean-Baptiste FRAYSSE & Olivier LIOSWSKI*
 
-You can try our solution on: 
-- http://blocktricity.io/
+This project was for the Datathon challenge named 'Énergie & Mobilité' which took place in Paris. 
 
 This library  has been made to compute and process all the data and create a scoring system. We can find all the data on the internet (all of them are open data).
 They mostly came from websites such as Enedis Open Data.
